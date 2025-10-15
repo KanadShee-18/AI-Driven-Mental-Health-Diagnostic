@@ -1,0 +1,101 @@
+﻿csvid,text,label
+1,"I feel sad and worthless lately, nothing seems enjoyable",Depression
+2,I can't stop worrying about small things all the time,Anxiety
+3,I'm feeling optimistic and calm today,Normal
+4,My emotions swing from excitement to deep sadness quickly,Bipolar
+5,I get distracted every few minutes while working,ADHD
+6,I wake up sweating from nightmares about past trauma,PTSD
+7,I wash my hands over and over even when they're clean,OCD
+8,"I feel tired, hopeless, and don't want to do anything",Depression
+9,I get panic attacks whenever I think about the future,Anxiety
+10,"I'm focused, happy, and enjoying my day",Normal
+11,"One moment I'm full of energy, then I suddenly crash",Bipolar
+12,I can't finish any task without losing focus,ADHD
+13,Loud noises remind me of things I want to forget,PTSD
+14,I have to check the stove multiple times before leaving home,OCD
+15,I feel like crying without any reason,Depression
+16,I'm nervous before talking to anyone new,Anxiety
+17,Life feels balanced and peaceful today,Normal
+18,"Sometimes I talk too fast, then suddenly feel drained",Bipolar
+19,I keep jumping between multiple unfinished tasks,ADHD
+20,I get flashbacks from the accident whenever I hear sirens,PTSD
+21,I organize my desk again and again until it feels right,OCD
+22,I can't find joy even in things I used to love,Depression
+23,My chest feels tight and I can't breathe when anxious,Anxiety
+24,I feel healthy and mentally clear today,Normal
+25,"I make big plans one day, then lose all motivation the next",Bipolar
+26,I forget what I was doing within seconds,ADHD
+27,Certain smells trigger painful memories for me,PTSD
+28,I count things repeatedly until it feels perfect,OCD
+29,I feel empty and worthless most mornings,Depression
+30,I overthink every decision I make,Anxiety
+31,I'm grateful and content with my progress,Normal
+32,"I stay up all night with racing thoughts, then crash hard",Bipolar
+33,I can't focus in class or meetings at all,ADHD
+34,I avoid places that remind me of what happened,PTSD
+35,I need to check every lock in the house before sleeping,OCD
+36,I feel like life has no meaning,Depression
+37,I constantly feel like something bad is about to happen,Anxiety
+38,I feel calm and in control lately,Normal
+39,"I start many projects when I'm high, then lose interest fast",Bipolar
+40,I'm easily distracted by any sound or movement,ADHD
+41,I wake up scared from the same nightmare every night,PTSD
+42,I keep cleaning the same spot repeatedly to feel calm,OCD
+43,I feel hopeless even when everything is fine around me,Depression
+44,I can't stop my mind from running through all possibilities,Anxiety
+45,"I’m relaxed, positive, and looking forward to my day",Normal
+46,"Sometimes I feel like I can do anything, then crash completely",Bipolar
+47,I lose focus and forget what I was supposed to do,ADHD
+48,I get triggered easily by things related to my past,PTSD
+49,I have to align everything perfectly on my desk,OCD
+50,I'm exhausted emotionally and mentally every day,Depression
+51,My hands shake when I'm nervous about small things,Anxiety
+52,I feel emotionally stable and grateful,Normal
+53,I make impulsive decisions when I'm overly energetic,Bipolar
+54,I start reading a book and switch to my phone instantly,ADHD
+55,I avoid people because they remind me of painful events,PTSD
+56,I repeat certain phrases in my mind to feel safe,OCD
+57,I feel like I’m drowning in sadness for no reason,Depression
+58,I constantly feel tense and on edge,Anxiety
+59,I feel mentally fresh and balanced today,Normal
+60,My moods jump from confidence to despair within hours,Bipolar
+61,I get easily bored even with interesting work,ADHD
+62,I relive the accident scene in my head again and again,PTSD
+63,I must touch objects in a specific pattern to feel okay,OCD
+64,I don’t enjoy socializing or even talking anymore,Depression
+65,I worry excessively about things that might never happen,Anxiety
+66,I feel motivated and peaceful at the same time,Normal
+67,"Sometimes I’m full of ideas and energy, then feel numb",Bipolar
+68,I can’t organize my thoughts long enough to complete tasks,ADHD
+69,Certain sounds make me feel terrified for no reason,PTSD
+70,I keep rewriting words until they look perfect,OCD
+71,I feel worthless and isolated all the time,Depression
+72,I get nervous stomachaches before every small event,Anxiety
+73,I’m enjoying my hobbies and feeling productive,Normal
+74,"I talk nonstop when I’m excited, then regret it later",Bipolar
+75,I jump between different apps and forget my main task,ADHD
+76,I can't sleep because of recurring traumatic dreams,PTSD
+77,I keep counting my steps until I reach a specific number,OCD
+78,I have no energy or interest in doing anything,Depression
+79,My heart races and I feel dizzy when anxious,Anxiety
+80,I feel strong and emotionally balanced,Normal
+81,"I feel invincible one day, then too tired to get up the next",Bipolar
+82,I can’t stay focused even for five minutes,ADHD
+83,I get sudden images of my trauma during the day,PTSD
+84,I have to arrange my clothes in a specific order,OCD
+85,I feel constantly sad for no reason,Depression
+86,I overanalyze every conversation and feel anxious,Anxiety
+87,I feel peaceful and thankful for my friends,Normal
+88,Sometimes I spend money recklessly then regret it later,Bipolar
+89,I’m easily distracted even during important work,ADHD
+90,I can’t stop thinking about what happened to me years ago,PTSD
+91,I repeat certain actions until they feel 'just right',OCD
+92,I feel exhausted and empty every morning,Depression
+93,I keep fearing something bad will happen to my family,Anxiety
+94,I feel emotionally stable and ready to work hard,Normal
+95,My mood switches from excited to sad in minutes,Bipolar
+96,I find it hard to pay attention during conversations,ADHD
+97,I get vivid flashbacks when I hear loud noises,PTSD
+98,I check all windows and doors repeatedly every night,OCD
+99,I have lost interest in everything I once loved,Depression
+100,I constantly think about possible future disasters,Anxiety
