@@ -1,0 +1,1001 @@
+csvid,text,label,text_length,cleaned_text,cleaned_word_count
+1,"I feel sad and worthless lately, nothing seems enjoyable",Depression,55,i feel sad and worthless lately nothing seems enjoyable,9
+2,I can't stop worrying about small things all the time,Anxiety,52,i cant stop worrying about small things all the time,10
+3,I'm feeling optimistic and calm today,Normal,36,im feeling optimistic and calm today,6
+4,My emotions swing from excitement to deep sadness quickly,Bipolar,57,my emotions swing from excitement to deep sadness quickly,9
+5,I get distracted every few minutes while working,ADHD,48,i get distracted every few minutes while working,8
+6,I wake up sweating from nightmares about past trauma,PTSD,52,i wake up sweating from nightmares about past trauma,9
+7,I wash my hands over and over even when they're clean,OCD,52,i wash my hands over and over even when theyre clean,11
+8,"I feel tired, hopeless, and don't want to do anything",Depression,50,i feel tired hopeless and dont want to do anything,10
+9,I get panic attacks whenever I think about the future,Anxiety,53,i get panic attacks whenever i think about the future,10
+10,"I'm focused, happy, and enjoying my day",Normal,36,im focused happy and enjoying my day,7
+11,"One moment I'm full of energy, then I suddenly crash",Bipolar,50,one moment im full of energy then i suddenly crash,10
+12,I can't finish any task without losing focus,ADHD,43,i cant finish any task without losing focus,8
+13,Loud noises remind me of things I want to forget,PTSD,48,loud noises remind me of things i want to forget,10
+14,I have to check the stove multiple times before leaving home,OCD,60,i have to check the stove multiple times before leaving home,11
+15,I feel like crying without any reason,Depression,37,i feel like crying without any reason,7
+16,I'm nervous before talking to anyone new,Anxiety,39,im nervous before talking to anyone new,7
+17,Life feels balanced and peaceful today,Normal,38,life feels balanced and peaceful today,6
+18,"Sometimes I talk too fast, then suddenly feel drained",Bipolar,52,sometimes i talk too fast then suddenly feel drained,9
+19,I keep jumping between multiple unfinished tasks,ADHD,48,i keep jumping between multiple unfinished tasks,7
+20,I get flashbacks from the accident whenever I hear sirens,PTSD,57,i get flashbacks from the accident whenever i hear sirens,10
+21,I organize my desk again and again until it feels right,OCD,55,i organize my desk again and again until it feels right,11
+22,I can't find joy even in things I used to love,Depression,45,i cant find joy even in things i used to love,11
+23,My chest feels tight and I can't breathe when anxious,Anxiety,52,my chest feels tight and i cant breathe when anxious,10
+24,I feel healthy and mentally clear today,Normal,39,i feel healthy and mentally clear today,7
+25,"I make big plans one day, then lose all motivation the next",Bipolar,58,i make big plans one day then lose all motivation the next,12
+26,I forget what I was doing within seconds,ADHD,40,i forget what i was doing within seconds,8
+27,Certain smells trigger painful memories for me,PTSD,46,certain smells trigger painful memories for me,7
+28,I count things repeatedly until it feels perfect,OCD,48,i count things repeatedly until it feels perfect,8
+29,I feel empty and worthless most mornings,Depression,40,i feel empty and worthless most mornings,7
+30,I overthink every decision I make,Anxiety,33,i overthink every decision i make,6
+31,I'm grateful and content with my progress,Normal,40,im grateful and content with my progress,7
+32,"I stay up all night with racing thoughts, then crash hard",Bipolar,56,i stay up all night with racing thoughts then crash hard,11
+33,I can't focus in class or meetings at all,ADHD,40,i cant focus in class or meetings at all,9
+34,I avoid places that remind me of what happened,PTSD,46,i avoid places that remind me of what happened,9
+35,I need to check every lock in the house before sleeping,OCD,55,i need to check every lock in the house before sleeping,11
+36,I feel like life has no meaning,Depression,31,i feel like life has no meaning,7
+37,I constantly feel like something bad is about to happen,Anxiety,55,i constantly feel like something bad is about to happen,10
+38,I feel calm and in control lately,Normal,33,i feel calm and in control lately,7
+39,"I start many projects when I'm high, then lose interest fast",Bipolar,58,i start many projects when im high then lose interest fast,11
+40,I'm easily distracted by any sound or movement,ADHD,45,im easily distracted by any sound or movement,8
+41,I wake up scared from the same nightmare every night,PTSD,52,i wake up scared from the same nightmare every night,10
+42,I keep cleaning the same spot repeatedly to feel calm,OCD,53,i keep cleaning the same spot repeatedly to feel calm,10
+43,I feel hopeless even when everything is fine around me,Depression,54,i feel hopeless even when everything is fine around me,10
+44,I can't stop my mind from running through all possibilities,Anxiety,58,i cant stop my mind from running through all possibilities,10
+45,"I’m relaxed, positive, and looking forward to my day",Normal,49,im relaxed positive and looking forward to my day,9
+46,"Sometimes I feel like I can do anything, then crash completely",Bipolar,61,sometimes i feel like i can do anything then crash completely,11
+47,I lose focus and forget what I was supposed to do,ADHD,49,i lose focus and forget what i was supposed to do,11
+48,I get triggered easily by things related to my past,PTSD,51,i get triggered easily by things related to my past,10
+49,I have to align everything perfectly on my desk,OCD,47,i have to align everything perfectly on my desk,9
+50,I'm exhausted emotionally and mentally every day,Depression,47,im exhausted emotionally and mentally every day,7
+51,My hands shake when I'm nervous about small things,Anxiety,49,my hands shake when im nervous about small things,9
+52,I feel emotionally stable and grateful,Normal,38,i feel emotionally stable and grateful,6
+53,I make impulsive decisions when I'm overly energetic,Bipolar,51,i make impulsive decisions when im overly energetic,8
+54,I start reading a book and switch to my phone instantly,ADHD,55,i start reading a book and switch to my phone instantly,11
+55,I avoid people because they remind me of painful events,PTSD,55,i avoid people because they remind me of painful events,10
+56,I repeat certain phrases in my mind to feel safe,OCD,48,i repeat certain phrases in my mind to feel safe,10
+57,I feel like I’m drowning in sadness for no reason,Depression,48,i feel like im drowning in sadness for no reason,10
+58,I constantly feel tense and on edge,Anxiety,35,i constantly feel tense and on edge,7
+59,I feel mentally fresh and balanced today,Normal,40,i feel mentally fresh and balanced today,7
+60,My moods jump from confidence to despair within hours,Bipolar,53,my moods jump from confidence to despair within hours,9
+61,I get easily bored even with interesting work,ADHD,45,i get easily bored even with interesting work,8
+62,I relive the accident scene in my head again and again,PTSD,54,i relive the accident scene in my head again and again,11
+63,I must touch objects in a specific pattern to feel okay,OCD,55,i must touch objects in a specific pattern to feel okay,11
+64,I don’t enjoy socializing or even talking anymore,Depression,48,i dont enjoy socializing or even talking anymore,8
+65,I worry excessively about things that might never happen,Anxiety,56,i worry excessively about things that might never happen,9
+66,I feel motivated and peaceful at the same time,Normal,46,i feel motivated and peaceful at the same time,9
+67,"Sometimes I’m full of ideas and energy, then feel numb",Bipolar,52,sometimes im full of ideas and energy then feel numb,10
+68,I can’t organize my thoughts long enough to complete tasks,ADHD,57,i cant organize my thoughts long enough to complete tasks,10
+69,Certain sounds make me feel terrified for no reason,PTSD,51,certain sounds make me feel terrified for no reason,9
+70,I keep rewriting words until they look perfect,OCD,46,i keep rewriting words until they look perfect,8
+71,I feel worthless and isolated all the time,Depression,42,i feel worthless and isolated all the time,8
+72,I get nervous stomachaches before every small event,Anxiety,51,i get nervous stomachaches before every small event,8
+73,I’m enjoying my hobbies and feeling productive,Normal,45,im enjoying my hobbies and feeling productive,7
+74,"I talk nonstop when I’m excited, then regret it later",Bipolar,51,i talk nonstop when im excited then regret it later,10
+75,I jump between different apps and forget my main task,ADHD,53,i jump between different apps and forget my main task,10
+76,I can't sleep because of recurring traumatic dreams,PTSD,50,i cant sleep because of recurring traumatic dreams,8
+77,I keep counting my steps until I reach a specific number,OCD,56,i keep counting my steps until i reach a specific number,11
+78,I have no energy or interest in doing anything,Depression,46,i have no energy or interest in doing anything,9
+79,My heart races and I feel dizzy when anxious,Anxiety,44,my heart races and i feel dizzy when anxious,9
+80,I feel strong and emotionally balanced,Normal,38,i feel strong and emotionally balanced,6
+81,"I feel invincible one day, then too tired to get up the next",Bipolar,59,i feel invincible one day then too tired to get up the next,13
+82,I can’t stay focused even for five minutes,ADHD,41,i cant stay focused even for five minutes,8
+83,I get sudden images of my trauma during the day,PTSD,47,i get sudden images of my trauma during the day,10
+84,I have to arrange my clothes in a specific order,OCD,48,i have to arrange my clothes in a specific order,10
+85,I feel constantly sad for no reason,Depression,35,i feel constantly sad for no reason,7
+86,I overanalyze every conversation and feel anxious,Anxiety,49,i overanalyze every conversation and feel anxious,7
+87,I feel peaceful and thankful for my friends,Normal,43,i feel peaceful and thankful for my friends,8
+88,Sometimes I spend money recklessly then regret it later,Bipolar,55,sometimes i spend money recklessly then regret it later,9
+89,I’m easily distracted even during important work,ADHD,47,im easily distracted even during important work,7
+90,I can’t stop thinking about what happened to me years ago,PTSD,56,i cant stop thinking about what happened to me years ago,11
+91,I repeat certain actions until they feel 'just right',OCD,51,i repeat certain actions until they feel just right,9
+92,I feel exhausted and empty every morning,Depression,40,i feel exhausted and empty every morning,7
+93,I keep fearing something bad will happen to my family,Anxiety,53,i keep fearing something bad will happen to my family,10
+94,I feel emotionally stable and ready to work hard,Normal,48,i feel emotionally stable and ready to work hard,9
+95,My mood switches from excited to sad in minutes,Bipolar,47,my mood switches from excited to sad in minutes,9
+96,I find it hard to pay attention during conversations,ADHD,52,i find it hard to pay attention during conversations,9
+97,I get vivid flashbacks when I hear loud noises,PTSD,46,i get vivid flashbacks when i hear loud noises,9
+98,I check all windows and doors repeatedly every night,OCD,52,i check all windows and doors repeatedly every night,9
+99,I have lost interest in everything I once loved,Depression,47,i have lost interest in everything i once loved,9
+100,I constantly think about possible future disasters,Anxiety,50,i constantly think about possible future disasters,7
+101,Getting out of bed feels like an impossible task these days,Depression,59,getting out of bed feels like an impossible task these days,11
+102,My mind races with 'what if' scenarios that I can't control,Anxiety,56,my mind races with what if scenarios that i cant control,11
+103,I feel confident in my decisions and ready for the day,Normal,54,i feel confident in my decisions and ready for the day,11
+104,"I went on a huge shopping spree yesterday, today I can't afford rent",Bipolar,66,i went on a huge shopping spree yesterday today i cant afford rent,13
+105,I have a dozen tabs open and can't focus on any of them,ADHD,54,i have a dozen tabs open and cant focus on any of them,13
+106,I'm hyper-vigilant and always scanning my surroundings for danger,PTSD,63,im hypervigilant and always scanning my surroundings for danger,9
+107,"I have disturbing, intrusive thoughts that I can't get rid of",OCD,59,i have disturbing intrusive thoughts that i cant get rid of,11
+108,The future feels bleak and I don't see the point in anything,Depression,59,the future feels bleak and i dont see the point in anything,12
+109,"I feel a constant, nagging dread in the pit of my stomach",Anxiety,56,i feel a constant nagging dread in the pit of my stomach,12
+110,I woke up feeling refreshed and genuinely happy this morning,Normal,60,i woke up feeling refreshed and genuinely happy this morning,10
+111,My friends can't keep up with my rapid mood changes,Bipolar,50,my friends cant keep up with my rapid mood changes,10
+112,I interrupt people mid-sentence without meaning to,ADHD,49,i interrupt people midsentence without meaning to,7
+113,"I feel emotionally numb, like I'm just going through the motions",PTSD,62,i feel emotionally numb like im just going through the motions,11
+114,I have to check that the door is locked exactly seven times,OCD,59,i have to check that the door is locked exactly seven times,12
+115,"I feel disconnected from everyone, even my closest friends",Depression,57,i feel disconnected from everyone even my closest friends,9
+116,I rehearse conversations in my head over and over before they happen,Anxiety,68,i rehearse conversations in my head over and over before they happen,12
+117,I'm handling challenges with a surprisingly calm mindset,Normal,55,im handling challenges with a surprisingly calm mindset,8
+118,"Last week I felt invincible, this week I feel like a complete failure",Bipolar,68,last week i felt invincible this week i feel like a complete failure,13
+119,Sitting still through a whole movie feels like torture,ADHD,54,sitting still through a whole movie feels like torture,9
+120,A car backfiring sent me into a full-blown panic attack,PTSD,54,a car backfiring sent me into a fullblown panic attack,10
+121,I get intense anxiety if my books are not arranged by color,OCD,59,i get intense anxiety if my books are not arranged by color,12
+122,Everything feels overwhelming and I have no energy to cope,Depression,58,everything feels overwhelming and i have no energy to cope,10
+123,"I'm terrified of being judged, so I just stay quiet",Anxiety,49,im terrified of being judged so i just stay quiet,10
+124,I feel hopeful and positive about what's coming next,Normal,51,i feel hopeful and positive about whats coming next,9
+125,My speech gets rapid and pressured when I'm in a high state,Bipolar,58,my speech gets rapid and pressured when im in a high state,12
+126,"I start cleaning one room, get distracted, and start on another",ADHD,61,i start cleaning one room get distracted and start on another,11
+127,I avoid the part of town where the incident happened,PTSD,52,i avoid the part of town where the incident happened,10
+128,"I'm afraid of contamination, so I avoid touching doorknobs",OCD,56,im afraid of contamination so i avoid touching doorknobs,9
+129,I've lost my appetite and nothing tastes good anymore,Depression,52,ive lost my appetite and nothing tastes good anymore,9
+130,My muscles are always tense from being constantly worried,Anxiety,57,my muscles are always tense from being constantly worried,9
+131,I'm enjoying the simple things in life right now,Normal,47,im enjoying the simple things in life right now,9
+132,I started five huge projects last week and have abandoned them all,Bipolar,66,i started five huge projects last week and have abandoned them all,12
+133,I zone out during important meetings and miss key information,ADHD,61,i zone out during important meetings and miss key information,10
+134,I have nightmares that feel so real I wake up screaming,PTSD,55,i have nightmares that feel so real i wake up screaming,11
+135,I perform mental rituals to cancel out bad thoughts,OCD,51,i perform mental rituals to cancel out bad thoughts,9
+136,I feel guilty for things that are completely out of my control,Depression,62,i feel guilty for things that are completely out of my control,12
+137,I need constant reassurance from others to feel okay,Anxiety,52,i need constant reassurance from others to feel okay,9
+138,"I feel grounded and stable, which is a wonderful feeling",Normal,55,i feel grounded and stable which is a wonderful feeling,10
+139,"My self-esteem soars to the sky, then plummets to the ground",Bipolar,58,my selfesteem soars to the sky then plummets to the ground,11
+140,Deadlines don't feel real until the panic of the last minute,ADHD,59,deadlines dont feel real until the panic of the last minute,11
+141,"I feel detached from my own memories, like I'm watching a movie",PTSD,61,i feel detached from my own memories like im watching a movie,12
+142,I spend hours each day on compulsions I know are irrational,OCD,59,i spend hours each day on compulsions i know are irrational,11
+143,My mind feels foggy and I can't concentrate on simple tasks,Depression,58,my mind feels foggy and i cant concentrate on simple tasks,11
+144,I get dizzy and lightheaded when my anxiety spikes,Anxiety,50,i get dizzy and lightheaded when my anxiety spikes,9
+145,I feel a deep sense of purpose in my daily work,Normal,47,i feel a deep sense of purpose in my daily work,11
+146,I talk over people with a flood of ideas when I'm manic,Bipolar,54,i talk over people with a flood of ideas when im manic,12
+147,I'm so impulsive I make big decisions without thinking them through,ADHD,66,im so impulsive i make big decisions without thinking them through,11
+148,I have outbursts of anger that seem to come from nowhere,PTSD,56,i have outbursts of anger that seem to come from nowhere,11
+149,I have to tap the table three times before I can sit down,OCD,57,i have to tap the table three times before i can sit down,13
+150,I pretend to be happy at work so nobody asks questions,Depression,54,i pretend to be happy at work so nobody asks questions,11
+151,"I am constantly on edge, waiting for something terrible to happen",Anxiety,64,i am constantly on edge waiting for something terrible to happen,11
+152,I feel good about the progress I've been making in my life,Normal,57,i feel good about the progress ive been making in my life,12
+153,"After days of no sleep, I crashed and slept for 16 hours straight",Bipolar,61,after days of no sleep i crashed and slept for hours straight,12
+154,I forget appointments and important dates constantly,ADHD,52,i forget appointments and important dates constantly,7
+155,My negative view of the world started after the trauma,PTSD,54,my negative view of the world started after the trauma,10
+156,I rewrite emails again and again to make them 'perfect',OCD,53,i rewrite emails again and again to make them perfect,10
+157,I've started sleeping 12 hours a day but still feel exhausted,Depression,57,ive started sleeping hours a day but still feel exhausted,10
+158,I avoid social events because my anxiety is too overwhelming,Anxiety,60,i avoid social events because my anxiety is too overwhelming,10
+159,Woke up feeling optimistic and ready to tackle my to-do list,Normal,59,woke up feeling optimistic and ready to tackle my todo list,11
+160,My thoughts race so fast I can't form a coherent sentence,Bipolar,56,my thoughts race so fast i cant form a coherent sentence,11
+161,I can hyperfocus on a video game for 8 hours and forget to eat,ADHD,60,i can hyperfocus on a video game for hours and forget to eat,13
+162,I feel intense shame and blame myself for what happened,PTSD,55,i feel intense shame and blame myself for what happened,10
+163,I need to have all the labels on cans facing forward in the pantry,OCD,66,i need to have all the labels on cans facing forward in the pantry,14
+164,I cry often but I can't explain why I'm so sad,Depression,44,i cry often but i cant explain why im so sad,11
+165,I get heart palpitations when I have to speak in a group,Anxiety,56,i get heart palpitations when i have to speak in a group,12
+166,I feel mentally sharp and clear today,Normal,37,i feel mentally sharp and clear today,7
+167,I feel so irritable and agitated that everyone annoys me,Bipolar,56,i feel so irritable and agitated that everyone annoys me,10
+168,I lose my phone and keys at least twice a day,ADHD,45,i lose my phone and keys at least twice a day,11
+169,I can't form close relationships because I don't trust anyone,PTSD,59,i cant form close relationships because i dont trust anyone,10
+170,I count the tiles on the floor when I walk,OCD,42,i count the tiles on the floor when i walk,10
+171,Socializing feels draining; I prefer to be alone,Depression,47,socializing feels draining i prefer to be alone,8
+172,"My mind is a browser with 100 tabs open, all playing audio",Anxiety,53,my mind is a browser with tabs open all playing audio,11
+173,I feel proud of what I accomplished today,Normal,41,i feel proud of what i accomplished today,8
+174,"I feel an intense, restless energy, like I need to keep moving",Bipolar,60,i feel an intense restless energy like i need to keep moving,12
+175,I have to reread the same paragraph multiple times to understand it,ADHD,67,i have to reread the same paragraph multiple times to understand it,12
+176,I have a strong physical reaction to smells that remind me of the trauma,PTSD,72,i have a strong physical reaction to smells that remind me of the trauma,14
+177,"I have a specific, rigid routine I must follow every morning",OCD,59,i have a specific rigid routine i must follow every morning,11
+178,I feel like a burden to the people who care about me,Depression,52,i feel like a burden to the people who care about me,12
+179,I'm so scared of failure that I don't even start,Anxiety,46,im so scared of failure that i dont even start,10
+180,I feel emotionally resilient and capable,Normal,40,i feel emotionally resilient and capable,6
+181,"My confidence is through the roof, I feel like I can do anything",Bipolar,63,my confidence is through the roof i feel like i can do anything,13
+182,I am chronically late because I get sidetracked while getting ready,ADHD,67,i am chronically late because i get sidetracked while getting ready,11
+183,I flinch at loud noises and sudden movements,PTSD,44,i flinch at loud noises and sudden movements,8
+184,I check the stove is off so many times it makes me late,OCD,55,i check the stove is off so many times it makes me late,13
+185,Even my favorite hobbies don't bring me any joy anymore,Depression,54,even my favorite hobbies dont bring me any joy anymore,10
+186,I get stuck in loops of negative thoughts I can't escape,Anxiety,55,i get stuck in loops of negative thoughts i cant escape,11
+187,"I'm having a calm, productive, and enjoyable day",Normal,45,im having a calm productive and enjoyable day,8
+188,"My moods are so extreme, there is no middle ground",Bipolar,49,my moods are so extreme there is no middle ground,10
+189,My workspace is a chaotic mess of unfinished projects,ADHD,53,my workspace is a chaotic mess of unfinished projects,9
+190,I avoid watching movies or shows with content related to my trauma,PTSD,66,i avoid watching movies or shows with content related to my trauma,12
+191,I feel compelled to confess minor 'bad' thoughts to people,OCD,56,i feel compelled to confess minor bad thoughts to people,10
+192,"I feel hollow inside, like something is missing",Depression,46,i feel hollow inside like something is missing,8
+193,My hands tremble when I have to do something new,Anxiety,48,my hands tremble when i have to do something new,10
+194,I feel content and at peace with myself right now,Normal,49,i feel content and at peace with myself right now,10
+195,My spending gets out of control when I'm in a manic phase,Bipolar,56,my spending gets out of control when im in a manic phase,12
+196,I have trouble following the plot of a TV show,ADHD,46,i have trouble following the plot of a tv show,10
+197,I feel like I'm always looking over my shoulder,PTSD,46,i feel like im always looking over my shoulder,9
+198,I have to step over cracks in the sidewalk,OCD,42,i have to step over cracks in the sidewalk,9
+199,The world seems gray and uninteresting to me,Depression,44,the world seems gray and uninteresting to me,8
+200,I'm constantly worried about my health and dying,Anxiety,47,im constantly worried about my health and dying,8
+201,I'm feeling positive and it's making my work easier,Normal,49,im feeling positive and its making my work easier,9
+202,I can go from euphoric to suicidal in the same day,Bipolar,50,i can go from euphoric to suicidal in the same day,11
+203,"I fidget constantly, tapping my feet or clicking a pen",ADHD,53,i fidget constantly tapping my feet or clicking a pen,10
+204,I feel alienated from others because they can't understand my past,PTSD,65,i feel alienated from others because they cant understand my past,11
+205,I feel a sense of dread if things are not in their proper place,OCD,63,i feel a sense of dread if things are not in their proper place,14
+206,I've been ignoring calls and texts from my friends for weeks,Depression,59,ive been ignoring calls and texts from my friends for weeks,11
+207,"I'm afraid of making a mistake, so I double-check everything",Anxiety,57,im afraid of making a mistake so i doublecheck everything,10
+208,I feel grateful for the good people in my life today,Normal,52,i feel grateful for the good people in my life today,11
+209,I feel restless and can't sit still; I need to be doing something,Bipolar,63,i feel restless and cant sit still i need to be doing something,13
+210,My mind drifts away when people are talking to me,ADHD,49,my mind drifts away when people are talking to me,10
+211,I experience the traumatic event over and over in my mind,PTSD,57,i experience the traumatic event over and over in my mind,11
+212,"I have a fear of losing things, so I hoard useless items",OCD,55,i have a fear of losing things so i hoard useless items,12
+213,"I have trouble making simple decisions, like what to eat",Depression,55,i have trouble making simple decisions like what to eat,10
+214,I feel a sense of impending doom for no apparent reason,Anxiety,55,i feel a sense of impending doom for no apparent reason,11
+215,My energy levels are stable and I feel good,Normal,43,my energy levels are stable and i feel good,9
+216,I get easily annoyed and snap at people during my highs,Bipolar,55,i get easily annoyed and snap at people during my highs,11
+217,I struggle to organize my tasks and prioritize what's important,ADHD,62,i struggle to organize my tasks and prioritize whats important,10
+218,I feel like a different person since the traumatic event,PTSD,56,i feel like a different person since the traumatic event,10
+219,I ask for reassurance about my decisions constantly,OCD,51,i ask for reassurance about my decisions constantly,8
+220,I have persistent thoughts that I am not good enough,Depression,52,i have persistent thoughts that i am not good enough,10
+221,I feel sick to my stomach when I think about my to-do list,Anxiety,57,i feel sick to my stomach when i think about my todo list,13
+222,I feel emotionally and physically healthy,Normal,41,i feel emotionally and physically healthy,6
+223,"I make grand, unrealistic plans when I'm feeling up",Bipolar,49,i make grand unrealistic plans when im feeling up,9
+224,I'm always losing track of time,ADHD,30,im always losing track of time,6
+225,I feel like the world is an unsafe and dangerous place,PTSD,54,i feel like the world is an unsafe and dangerous place,11
+226,I have a compulsion to touch things in a specific order,OCD,55,i have a compulsion to touch things in a specific order,11
+227,I just want to sleep and never wake up,Depression,38,i just want to sleep and never wake up,9
+228,I'm hyper-aware of my heartbeat and breathing when I'm anxious,Anxiety,59,im hyperaware of my heartbeat and breathing when im anxious,10
+229,Life feels manageable and I am in control,Normal,41,life feels manageable and i am in control,8
+230,My thoughts are like a whirlwind I cannot escape from,Bipolar,53,my thoughts are like a whirlwind i cannot escape from,10
+231,I have trouble with tasks that require sustained mental effort,ADHD,62,i have trouble with tasks that require sustained mental effort,10
+232,I lost interest in activities that were once important to me after the event,PTSD,76,i lost interest in activities that were once important to me after the event,14
+233,I am preoccupied with symmetry and exactness,OCD,44,i am preoccupied with symmetry and exactness,7
+234,I feel emotionally numb and can't seem to cry,Depression,44,i feel emotionally numb and cant seem to cry,9
+235,I have an irrational fear of crowded places,Anxiety,43,i have an irrational fear of crowded places,8
+236,I feel mentally strong and capable of handling stress,Normal,53,i feel mentally strong and capable of handling stress,9
+237,"I have periods of intense goal-directed activity, then nothing",Bipolar,60,i have periods of intense goaldirected activity then nothing,9
+238,My thoughts are jumbled and I can't seem to think straight,ADHD,57,my thoughts are jumbled and i cant seem to think straight,11
+239,I push people away to avoid getting hurt again,PTSD,46,i push people away to avoid getting hurt again,9
+240,I have a pathological need to keep things perfectly clean,OCD,57,i have a pathological need to keep things perfectly clean,10
+241,I have unexplained aches and pains all the time,Depression,47,i have unexplained aches and pains all the time,9
+242,I obsess over small details and potential negative outcomes,Anxiety,59,i obsess over small details and potential negative outcomes,9
+243,I feel optimistic about my future,Normal,33,i feel optimistic about my future,6
+244,I take on more than I can handle when I'm manic,Bipolar,46,i take on more than i can handle when im manic,11
+245,I am easily overwhelmed by sensory input like noise and lights,ADHD,62,i am easily overwhelmed by sensory input like noise and lights,11
+246,I struggle with memory problems related to the trauma,PTSD,53,i struggle with memory problems related to the trauma,9
+247,I have to arrange my food on the plate in a very specific way,OCD,61,i have to arrange my food on the plate in a very specific way,14
+248,I feel like I'm moving in slow motion compared to everyone else,Depression,62,i feel like im moving in slow motion compared to everyone else,12
+249,I feel a jolt of panic every time my phone rings unexpectedly,Anxiety,61,i feel a jolt of panic every time my phone rings unexpectedly,12
+250,I am at peace with my choices and my current situation,Normal,54,i am at peace with my choices and my current situation,11
+251,I feel so agitated I could crawl out of my skin,Bipolar,47,i feel so agitated i could crawl out of my skin,11
+252,I struggle to follow step-by-step instructions,ADHD,44,i struggle to follow stepbystep instructions,6
+253,"I have a sense of a foreshortened future, like I won't live long",PTSD,62,i have a sense of a foreshortened future like i wont live long,13
+254,I have superstitious fears about certain numbers or colors,OCD,58,i have superstitious fears about certain numbers or colors,9
+255,I have no motivation to take care of my personal hygiene,Depression,56,i have no motivation to take care of my personal hygiene,11
+256,I'm worried that people can see how anxious I am,Anxiety,47,im worried that people can see how anxious i am,10
+257,I feel a sense of accomplishment from my work today,Normal,51,i feel a sense of accomplishment from my work today,10
+258,"I feel powerful and important, then suddenly feel insignificant",Bipolar,62,i feel powerful and important then suddenly feel insignificant,9
+259,I have a very short temper and get frustrated easily,ADHD,52,i have a very short temper and get frustrated easily,10
+260,I am startled by any unexpected touch,PTSD,37,i am startled by any unexpected touch,7
+261,I avoid stepping on lines on the pavement,OCD,41,i avoid stepping on lines on the pavement,8
+262,I feel like I'm a spectator in my own life,Depression,41,i feel like im a spectator in my own life,10
+263,My thoughts are spiraling out of control with worry,Anxiety,51,my thoughts are spiraling out of control with worry,9
+264,I feel a pleasant sense of focus and productivity,Normal,49,i feel a pleasant sense of focus and productivity,9
+265,My behavior becomes reckless and impulsive when I'm manic,Bipolar,56,my behavior becomes reckless and impulsive when im manic,9
+266,I blurt out things without thinking and regret them later,ADHD,57,i blurt out things without thinking and regret them later,10
+267,I feel like I can never relax or let my guard down,PTSD,50,i feel like i can never relax or let my guard down,12
+268,I have to say a certain phrase in my head to prevent bad things from happening,OCD,78,i have to say a certain phrase in my head to prevent bad things from happening,16
+269,I feel an overwhelming sense of emptiness inside,Depression,48,i feel an overwhelming sense of emptiness inside,8
+270,I am constantly second-guessing my decisions,Anxiety,43,i am constantly secondguessing my decisions,6
+271,I woke up on the right side of the bed today,Normal,44,i woke up on the right side of the bed today,11
+272,I have an inflated sense of self-importance during my highs,Bipolar,58,i have an inflated sense of selfimportance during my highs,10
+273,I'm disorganized and can never find anything,ADHD,43,im disorganized and can never find anything,7
+274,I feel emotionally detached from the people I love,PTSD,50,i feel emotionally detached from the people i love,9
+275,I'm obsessed with keeping things in even numbers,OCD,47,im obsessed with keeping things in even numbers,8
+276,I have a very critical inner voice that puts me down,Depression,52,i have a very critical inner voice that puts me down,11
+277,I feel like I'm going to lose control,Anxiety,36,i feel like im going to lose control,8
+278,I feel a nice balance between work and relaxation,Normal,49,i feel a nice balance between work and relaxation,9
+279,My mood can flip from ecstatic to deeply depressed in an instant,Bipolar,64,my mood can flip from ecstatic to deeply depressed in an instant,12
+280,I have poor time management skills and am always rushing,ADHD,56,i have poor time management skills and am always rushing,10
+281,I am constantly on the lookout for anything that could be a threat,PTSD,66,i am constantly on the lookout for anything that could be a threat,13
+282,"I have a fear that if I don't do my ritual, something bad will happen to my family",OCD,80,i have a fear that if i dont do my ritual something bad will happen to my family,18
+283,I can't remember the last time I felt truly happy,Depression,48,i cant remember the last time i felt truly happy,10
+284,I have a fear of being in situations where escape might be difficult,Anxiety,68,i have a fear of being in situations where escape might be difficult,13
+285,I feel well-rested and mentally prepared for the week,Normal,52,i feel wellrested and mentally prepared for the week,9
+286,I have a decreased need for sleep during manic episodes,Bipolar,55,i have a decreased need for sleep during manic episodes,10
+287,I make careless mistakes in my work because I rush through it,ADHD,61,i make careless mistakes in my work because i rush through it,12
+288,I have difficulty feeling positive emotions like love or happiness,PTSD,66,i have difficulty feeling positive emotions like love or happiness,10
+289,I have to wash my hands until they feel raw,OCD,43,i have to wash my hands until they feel raw,10
+290,I feel physically and emotionally drained for no reason,Depression,55,i feel physically and emotionally drained for no reason,9
+291,I feel a constant sense of unease that I can't shake,Anxiety,51,i feel a constant sense of unease that i cant shake,11
+292,I am enjoying a peaceful and uneventful day,Normal,43,i am enjoying a peaceful and uneventful day,8
+293,I engage in risky behaviors when I'm in a high mood,Bipolar,50,i engage in risky behaviors when im in a high mood,11
+294,I have a hard time waiting my turn in conversations or lines,ADHD,60,i have a hard time waiting my turn in conversations or lines,12
+295,"I have recurring, distressing dreams about the event",PTSD,51,i have recurring distressing dreams about the event,8
+296,I have intrusive violent or horrific images in my mind,OCD,54,i have intrusive violent or horrific images in my mind,10
+297,I find it hard to get excited about future events,Depression,49,i find it hard to get excited about future events,10
+298,I have trouble swallowing and feel a lump in my throat from anxiety,Anxiety,67,i have trouble swallowing and feel a lump in my throat from anxiety,13
+299,I feel a strong sense of well-being,Normal,34,i feel a strong sense of wellbeing,7
+300,My thoughts are so loud that I can't hear what people are saying,Bipolar,63,my thoughts are so loud that i cant hear what people are saying,13
+301,I often lose my train of thought mid-sentence,ADHD,44,i often lose my train of thought midsentence,8
+302,I feel permanently damaged by my past experiences,PTSD,49,i feel permanently damaged by my past experiences,8
+303,I have to check that all appliances are unplugged multiple times,OCD,64,i have to check that all appliances are unplugged multiple times,11
+304,I feel like I'm walking through mud every day,Depression,44,i feel like im walking through mud every day,9
+305,My mind gets stuck on one worry and I can't move on,Anxiety,50,my mind gets stuck on one worry and i cant move on,12
+306,I feel productive and satisfied with my day's work,Normal,49,i feel productive and satisfied with my days work,9
+307,"One minute I'm writing a novel, the next I'm unable to write a sentence",Bipolar,68,one minute im writing a novel the next im unable to write a sentence,14
+308,"I find it hard to relax, I always feel like I should be doing something",ADHD,70,i find it hard to relax i always feel like i should be doing something,15
+309,"I feel disconnected from reality, like I'm in a dream",PTSD,51,i feel disconnected from reality like im in a dream,10
+310,I feel the need to confess every little thing I do wrong,OCD,56,i feel the need to confess every little thing i do wrong,12
+311,My self-worth is extremely low right now,Depression,39,my selfworth is extremely low right now,7
+312,"I'm sweating and my heart is pounding, but there's no danger",Anxiety,57,im sweating and my heart is pounding but theres no danger,11
+313,I feel a quiet confidence in my abilities,Normal,41,i feel a quiet confidence in my abilities,8
+314,I have racing thoughts and am easily distracted during manic phases,Bipolar,67,i have racing thoughts and am easily distracted during manic phases,11
+315,"I am forgetful in daily activities, like paying bills",ADHD,52,i am forgetful in daily activities like paying bills,9
+316,"I feel like an observer of my own life, not a participant",PTSD,56,i feel like an observer of my own life not a participant,12
+317,I have to keep things in a certain order or I get very distressed,OCD,65,i have to keep things in a certain order or i get very distressed,14
+318,I've isolated myself from friends and family,Depression,43,ive isolated myself from friends and family,7
+319,I'm irritable and snappy because of my constant anxiety,Anxiety,54,im irritable and snappy because of my constant anxiety,9
+320,I feel inspired and creatively energized today,Normal,46,i feel inspired and creatively energized today,7
+321,My judgment is impaired when I'm manic; I make bad choices,Bipolar,56,my judgment is impaired when im manic i make bad choices,11
+322,I avoid tasks that require a lot of thought or concentration,ADHD,60,i avoid tasks that require a lot of thought or concentration,11
+323,I am unable to recall important aspects of the trauma,PTSD,53,i am unable to recall important aspects of the trauma,10
+324,I'm terrified I will accidentally harm someone,OCD,45,im terrified i will accidentally harm someone,7
+325,I feel profound sadness that weighs me down,Depression,43,i feel profound sadness that weighs me down,8
+326,I have a persistent fear of embarrassing myself,Anxiety,47,i have a persistent fear of embarrassing myself,8
+327,I am content with my life as it is right now,Normal,44,i am content with my life as it is right now,11
+328,I swing between overconfidence and crippling self-doubt,Bipolar,54,i swing between overconfidence and crippling selfdoubt,7
+329,I have difficulty sustaining attention in tasks or play activities,ADHD,66,i have difficulty sustaining attention in tasks or play activities,10
+330,My emotional reactions are much stronger since the event,PTSD,56,my emotional reactions are much stronger since the event,9
+331,"I clean my house for hours every day, even when it's already clean",OCD,64,i clean my house for hours every day even when its already clean,13
+332,I have no energy for basic self-care,Depression,35,i have no energy for basic selfcare,7
+333,I feel shaky and unsteady on my feet from nerves,Anxiety,48,i feel shaky and unsteady on my feet from nerves,10
+334,I feel a sense of clarity and purpose,Normal,37,i feel a sense of clarity and purpose,8
+335,"My mood is elevated and expansive, I feel giddy",Bipolar,46,my mood is elevated and expansive i feel giddy,9
+336,I have a messy and disorganized lifestyle,ADHD,41,i have a messy and disorganized lifestyle,7
+337,I try to stay busy to avoid thinking about the past,PTSD,51,i try to stay busy to avoid thinking about the past,11
+338,I am obsessed with the idea that I might get sick,OCD,49,i am obsessed with the idea that i might get sick,11
+339,I think about death and dying a lot,Depression,35,i think about death and dying a lot,8
+340,I experience sudden and intense waves of panic,Anxiety,46,i experience sudden and intense waves of panic,8
+341,I feel emotionally balanced and not easily upset,Normal,48,i feel emotionally balanced and not easily upset,8
+342,I'm very talkative and need to be the center of attention during highs,Bipolar,69,im very talkative and need to be the center of attention during highs,13
+343,I often fail to give close attention to details,ADHD,47,i often fail to give close attention to details,9
+344,I have a hard time sleeping because I'm afraid to have nightmares,PTSD,64,i have a hard time sleeping because im afraid to have nightmares,12
+345,I have a need for things to be 'just right',OCD,41,i have a need for things to be just right,10
+346,I feel completely hopeless about my situation ever improving,Depression,60,i feel completely hopeless about my situation ever improving,9
+347,"I feel detached from my body, like it's not my own",Anxiety,48,i feel detached from my body like its not my own,11
+348,I'm taking things one step at a time and feel good about it,Normal,58,im taking things one step at a time and feel good about it,13
+349,My thoughts jump from one topic to another without connection,Bipolar,61,my thoughts jump from one topic to another without connection,10
+350,"I lose things necessary for tasks, like my wallet or glasses",ADHD,59,i lose things necessary for tasks like my wallet or glasses,11
+351,I have a strong urge to run away or escape my current life,PTSD,58,i have a strong urge to run away or escape my current life,13
+352,I am excessively concerned with morality and doing the 'right' thing,OCD,66,i am excessively concerned with morality and doing the right thing,11
+353,I see no future for myself,Depression,26,i see no future for myself,6
+354,"I feel like I'm on a constant, high-strung alert",Anxiety,45,i feel like im on a constant highstrung alert,9
+355,I feel secure and happy in my relationships,Normal,43,i feel secure and happy in my relationships,8
+356,I become more sexually driven and promiscuous when manic,Bipolar,56,i become more sexually driven and promiscuous when manic,9
+357,"I can't seem to get my life in order, no matter how hard I try",ADHD,60,i cant seem to get my life in order no matter how hard i try,15
+358,I am easily startled by things that wouldn't bother others,PTSD,57,i am easily startled by things that wouldnt bother others,10
+359,I have to check and recheck my work for mistakes endlessly,OCD,58,i have to check and recheck my work for mistakes endlessly,11
+360,It takes all my energy just to pretend that I'm okay,Depression,51,it takes all my energy just to pretend that im okay,11
+361,My throat feels tight like I can't breathe when I get anxious,Anxiety,60,my throat feels tight like i cant breathe when i get anxious,12
+362,I feel mentally and emotionally recharged today,Normal,47,i feel mentally and emotionally recharged today,7
+363,I experience irritability that can lead to arguments or fights,Bipolar,62,i experience irritability that can lead to arguments or fights,10
+364,I start projects with enthusiasm but quickly lose interest,ADHD,58,i start projects with enthusiasm but quickly lose interest,9
+365,"I have persistent negative beliefs about myself, like 'I am bad'",PTSD,61,i have persistent negative beliefs about myself like i am bad,11
+366,I collect and hoard things with no apparent value,OCD,49,i collect and hoard things with no apparent value,9
+367,I feel like I'm in a dark hole I can't climb out of,Depression,49,i feel like im in a dark hole i cant climb out of,13
+368,"I need to know what will happen, the uncertainty is killing me",Anxiety,61,i need to know what will happen the uncertainty is killing me,12
+369,I'm not worried about the future; I'm enjoying the present,Normal,55,im not worried about the future im enjoying the present,10
+370,I feel a decreased need for food during my lows,Bipolar,47,i feel a decreased need for food during my lows,10
+371,I have difficulty listening when spoken to directly,ADHD,51,i have difficulty listening when spoken to directly,8
+372,"I have a distorted sense of blame, either blaming myself or others for the trauma",PTSD,80,i have a distorted sense of blame either blaming myself or others for the trauma,15
+373,I have unwanted sexual thoughts that cause me great distress,OCD,60,i have unwanted sexual thoughts that cause me great distress,10
+374,"I feel utterly alone, even when I'm surrounded by people",Depression,54,i feel utterly alone even when im surrounded by people,10
+375,I have a phobia of something specific that I think about constantly,Anxiety,67,i have a phobia of something specific that i think about constantly,12
+376,I feel like I can handle whatever comes my way,Normal,46,i feel like i can handle whatever comes my way,10
+377,My depression phase is marked by intense lethargy and sadness,Bipolar,61,my depression phase is marked by intense lethargy and sadness,10
+378,I have a hard time relaxing and am always 'on the go',ADHD,51,i have a hard time relaxing and am always on the go,12
+379,I have lost faith in humanity and see the world as dangerous,PTSD,60,i have lost faith in humanity and see the world as dangerous,12
+380,I have to repeat a prayer every time I have a bad thought,OCD,57,i have to repeat a prayer every time i have a bad thought,13
+381,Waking up in the morning is the hardest part of my day,Depression,54,waking up in the morning is the hardest part of my day,12
+382,I am so tense that I have frequent headaches,Anxiety,44,i am so tense that i have frequent headaches,9
+383,I feel in sync with my body and mind,Normal,36,i feel in sync with my body and mind,9
+384,I cycle between feeling like a genius and feeling like an idiot,Bipolar,63,i cycle between feeling like a genius and feeling like an idiot,12
+385,I am very sensitive to criticism and rejection,ADHD,46,i am very sensitive to criticism and rejection,8
+386,"I have vivid, intrusive memories of the event that feel like they're happening now",PTSD,80,i have vivid intrusive memories of the event that feel like theyre happening now,14
+387,I am afraid I will lose control and act on an unwanted impulse,OCD,62,i am afraid i will lose control and act on an unwanted impulse,13
+388,The sound of other people laughing makes me feel worse,Depression,54,the sound of other people laughing makes me feel worse,10
+389,"I feel restless and fidgety, like I need to pace",Anxiety,47,i feel restless and fidgety like i need to pace,10
+390,I feel my life has meaning and purpose,Normal,38,i feel my life has meaning and purpose,8
+391,"I'm either flying high or sinking low, with no in-between",Bipolar,54,im either flying high or sinking low with no inbetween,10
+392,I often act on the spur of the moment,ADHD,37,i often act on the spur of the moment,9
+393,"I feel a constant sense of threat, even in safe places",PTSD,53,i feel a constant sense of threat even in safe places,11
+394,My rituals take up so much time that they interfere with my life,OCD,64,my rituals take up so much time that they interfere with my life,13
+395,I have difficulty experiencing pleasure from anything,Depression,53,i have difficulty experiencing pleasure from anything,7
+396,I get overwhelmed in busy places like supermarkets,Anxiety,50,i get overwhelmed in busy places like supermarkets,8
+397,I feel centered and calm,Normal,24,i feel centered and calm,5
+398,My family says it's like living with two different people,Bipolar,56,my family says its like living with two different people,10
+399,I struggle to keep my emotions in check; they're often too intense,ADHD,64,i struggle to keep my emotions in check theyre often too intense,12
+400,I see the world in black and white since the trauma,PTSD,51,i see the world in black and white since the trauma,11
+401,I can't throw things away because I'm worried I might need them someday,OCD,69,i cant throw things away because im worried i might need them someday,13
+402,I've been neglecting my responsibilities because I don't have the energy,Depression,70,ive been neglecting my responsibilities because i dont have the energy,11
+403,I have a churning feeling in my stomach all day from worry,Anxiety,58,i have a churning feeling in my stomach all day from worry,12
+404,I feel clear-headed and ready to learn new things,Normal,48,i feel clearheaded and ready to learn new things,9
+405,My mind moves too quickly for me to keep up with it,Bipolar,51,my mind moves too quickly for me to keep up with it,12
+406,I am restless and have an abundance of energy that I can't channel,ADHD,65,i am restless and have an abundance of energy that i cant channel,13
+407,I have a hard time connecting with others since my experience,PTSD,61,i have a hard time connecting with others since my experience,11
+408,I repeatedly check to make sure I haven't hurt someone by accident,OCD,65,i repeatedly check to make sure i havent hurt someone by accident,12
+409,I feel like I'm a disappointment to everyone,Depression,43,i feel like im a disappointment to everyone,8
+410,I'm afraid people will leave me if I show them my anxiety,Anxiety,56,im afraid people will leave me if i show them my anxiety,12
+411,I feel good about who I am and the person I'm becoming,Normal,53,i feel good about who i am and the person im becoming,12
+412,"I get into grandiose thinking, believing I have special powers",Bipolar,61,i get into grandiose thinking believing i have special powers,10
+413,I have difficulty managing my frustration,ADHD,41,i have difficulty managing my frustration,6
+414,I am always on guard for potential harm,PTSD,39,i am always on guard for potential harm,8
+415,I feel I have to do things perfectly or not at all,OCD,50,i feel i have to do things perfectly or not at all,12
+416,I have a persistent feeling of sadness that won't go away,Depression,56,i have a persistent feeling of sadness that wont go away,11
+417,I feel like I'm always on the verge of a panic attack,Anxiety,52,i feel like im always on the verge of a panic attack,12
+418,I am happy with my social life and connections,Normal,46,i am happy with my social life and connections,9
+419,I will feel intensely happy and then crash into a depressive state,Bipolar,66,i will feel intensely happy and then crash into a depressive state,12
+420,My attention is easily drawn to irrelevant noises or sights,ADHD,59,my attention is easily drawn to irrelevant noises or sights,10
+421,I can't stop replaying the traumatic event in my mind,PTSD,52,i cant stop replaying the traumatic event in my mind,10
+422,I have a need for everything to be symmetrical and balanced,OCD,59,i have a need for everything to be symmetrical and balanced,11
+423,I've lost all my self-confidence,Depression,30,ive lost all my selfconfidence,5
+424,I'm always worried about things that I have no control over,Anxiety,58,im always worried about things that i have no control over,11
+425,I feel mentally resilient today,Normal,31,i feel mentally resilient today,5
+426,I have days where I feel on top of the world followed by days of despair,Bipolar,72,i have days where i feel on top of the world followed by days of despair,16
+427,I am not good at planning for the future,ADHD,40,i am not good at planning for the future,9
+428,I feel like no one can understand what I've been through,PTSD,55,i feel like no one can understand what ive been through,11
+429,I am plagued by doubts about my memory and perception,OCD,53,i am plagued by doubts about my memory and perception,10
+430,"My body feels heavy, like it's made of lead",Depression,41,my body feels heavy like its made of lead,9
+431,I am constantly tense and can never fully relax,Anxiety,47,i am constantly tense and can never fully relax,9
+432,I am making good progress towards my goals,Normal,42,i am making good progress towards my goals,8
+433,My energy levels are either extremely high or extremely low,Bipolar,59,my energy levels are either extremely high or extremely low,10
+434,I have a history of academic and professional underachievement,ADHD,62,i have a history of academic and professional underachievement,9
+435,I feel like the trauma has stolen my future,PTSD,43,i feel like the trauma has stolen my future,9
+436,I have obsessive thoughts about religion and sin,OCD,48,i have obsessive thoughts about religion and sin,8
+437,I don't see any hope for things getting better,Depression,45,i dont see any hope for things getting better,9
+438,I get short of breath when I'm in a stressful situation,Anxiety,54,i get short of breath when im in a stressful situation,11
+439,I am in a good mood and it's infectious,Normal,38,i am in a good mood and its infectious,9
+440,My thinking becomes disorganized and illogical during a manic episode,Bipolar,69,my thinking becomes disorganized and illogical during a manic episode,10
+441,I have trouble completing the final details of a project,ADHD,56,i have trouble completing the final details of a project,10
+442,I engage in self-destructive behavior to cope with the memories,PTSD,62,i engage in selfdestructive behavior to cope with the memories,10
+443,I have to tell myself 'don't think that' over and over again,OCD,57,i have to tell myself dont think that over and over again,12
+444,"I have trouble sleeping, either too much or too little",Depression,53,i have trouble sleeping either too much or too little,10
+445,I feel like I'm always on the brink of disaster,Anxiety,46,i feel like im always on the brink of disaster,10
+446,I feel my life is in a good place right now,Normal,43,i feel my life is in a good place right now,11
+447,I feel so agitated and full of energy I can't sleep for days,Bipolar,59,i feel so agitated and full of energy i cant sleep for days,13
+448,I am easily bored and crave constant stimulation,ADHD,48,i am easily bored and crave constant stimulation,8
+449,I have trouble concentrating since the event happened,PTSD,53,i have trouble concentrating since the event happened,8
+450,I have a fear of saying the wrong thing and offending someone,OCD,61,i have a fear of saying the wrong thing and offending someone,12
+451,I feel irritable and everything gets on my nerves,Depression,49,i feel irritable and everything gets on my nerves,9
+452,"I experience a sense of derealization, where the world feels unreal",Anxiety,66,i experience a sense of derealization where the world feels unreal,11
+453,I am proud of my ability to overcome challenges,Normal,47,i am proud of my ability to overcome challenges,9
+454,My mind is flooded with creative ideas during my highs,Bipolar,54,my mind is flooded with creative ideas during my highs,10
+455,I struggle with tasks that are tedious or repetitive,ADHD,52,i struggle with tasks that are tedious or repetitive,9
+456,I have a persistent and exaggerated negative state of mind,PTSD,58,i have a persistent and exaggerated negative state of mind,10
+457,I have to organize things until they feel 'just so',OCD,49,i have to organize things until they feel just so,10
+458,I've lost interest in my appearance and personal grooming,Depression,56,ive lost interest in my appearance and personal grooming,9
+459,I'm afraid of being alone because my thoughts get too loud,Anxiety,57,im afraid of being alone because my thoughts get too loud,11
+460,I am enjoying a hobby that makes me feel fulfilled,Normal,50,i am enjoying a hobby that makes me feel fulfilled,10
+461,I go through periods of being extremely social and then completely withdrawn,Bipolar,76,i go through periods of being extremely social and then completely withdrawn,12
+462,I'm a thrill-seeker and often engage in risky activities,ADHD,54,im a thrillseeker and often engage in risky activities,9
+463,I feel like there's a wall between me and the rest of the world,PTSD,62,i feel like theres a wall between me and the rest of the world,14
+464,I'm extremely particular about how my food is prepared and served,OCD,64,im extremely particular about how my food is prepared and served,11
+465,I feel a deep sense of shame and worthlessness,Depression,46,i feel a deep sense of shame and worthlessness,9
+466,My body feels like it's buzzing with nervous energy,Anxiety,50,my body feels like its buzzing with nervous energy,9
+467,I'm looking forward to what tomorrow will bring,Normal,46,im looking forward to what tomorrow will bring,8
+468,My emotions are so intense they feel uncontrollable,Bipolar,51,my emotions are so intense they feel uncontrollable,8
+469,I have a hard time managing my money and am often in debt,ADHD,57,i have a hard time managing my money and am often in debt,13
+470,I am unable to feel safe anywhere,PTSD,33,i am unable to feel safe anywhere,7
+471,I have to confess my thoughts to someone to relieve my anxiety,OCD,62,i have to confess my thoughts to someone to relieve my anxiety,12
+472,I can't stop thinking about my past mistakes,Depression,43,i cant stop thinking about my past mistakes,8
+473,I feel like I'm going crazy with all this worry,Anxiety,46,i feel like im going crazy with all this worry,10
+474,I feel happy and content with where I am in life,Normal,48,i feel happy and content with where i am in life,11
+475,I have an unstoppable urge to talk when I'm manic,Bipolar,48,i have an unstoppable urge to talk when im manic,10
+476,I have a messy car and a messy room; organization is hard,ADHD,56,i have a messy car and a messy room organization is hard,12
+477,I feel like the trauma defines who I am now,PTSD,43,i feel like the trauma defines who i am now,10
+478,I have a nagging feeling that I've forgotten to do something important,OCD,69,i have a nagging feeling that ive forgotten to do something important,12
+479,I have a pessimistic outlook on everything,Depression,42,i have a pessimistic outlook on everything,7
+480,I have nightmares that I'm being chased or trapped,Anxiety,49,i have nightmares that im being chased or trapped,9
+481,I feel a sense of freedom and possibility today,Normal,47,i feel a sense of freedom and possibility today,9
+482,I go from feeling deeply sad to inappropriately cheerful very quickly,Bipolar,69,i go from feeling deeply sad to inappropriately cheerful very quickly,11
+483,I find it hard to stick to a routine,ADHD,36,i find it hard to stick to a routine,9
+484,I am estranged from my family because of my trauma responses,PTSD,60,i am estranged from my family because of my trauma responses,11
+485,I avoid certain words because they feel 'unlucky',OCD,47,i avoid certain words because they feel unlucky,8
+486,"I feel like I'm just existing, not living",Depression,39,i feel like im just existing not living,8
+487,I'm always imagining the worst-case scenario,Anxiety,42,im always imagining the worstcase scenario,6
+488,"I feel productive, but not rushed or stressed",Normal,44,i feel productive but not rushed or stressed,8
+489,My depression is so deep I can barely move or speak,Bipolar,51,my depression is so deep i can barely move or speak,11
+490,I get so absorbed in one thing that I lose track of everything else,ADHD,67,i get so absorbed in one thing that i lose track of everything else,14
+491,I feel like I'm on a different wavelength from everyone else,PTSD,59,i feel like im on a different wavelength from everyone else,11
+492,I feel the need to apologize for things that are not my fault,OCD,61,i feel the need to apologize for things that are not my fault,13
+493,I feel like I'm carrying a heavy weight on my shoulders,Depression,54,i feel like im carrying a heavy weight on my shoulders,11
+494,I have a constant fear of being abandoned,Anxiety,41,i have a constant fear of being abandoned,8
+495,I feel my efforts are paying off,Normal,32,i feel my efforts are paying off,7
+496,My hypomanic episodes make me feel productive and brilliant,Bipolar,59,my hypomanic episodes make me feel productive and brilliant,9
+497,I talk excessively and don't pick up on social cues to stop,ADHD,58,i talk excessively and dont pick up on social cues to stop,12
+498,I have a strong desire for revenge against those who hurt me,PTSD,60,i have a strong desire for revenge against those who hurt me,12
+499,I have to check my pulse to make sure I'm still alive,OCD,52,i have to check my pulse to make sure im still alive,12
+500,I feel so sad that my whole body aches,Depression,38,i feel so sad that my whole body aches,9
+501,"My mind feels like a browser with too many tabs open, all of them frozen",Depression,71,my mind feels like a browser with too many tabs open all of them frozen,15
+502,"I get a sudden, overwhelming sense of terror for no logical reason",Anxiety,65,i get a sudden overwhelming sense of terror for no logical reason,12
+503,I handled a difficult conversation today with grace and calm,Normal,60,i handled a difficult conversation today with grace and calm,10
+504,I redecorated my entire house overnight; now I hate it and I'm exhausted,Bipolar,70,i redecorated my entire house overnight now i hate it and im exhausted,13
+505,I can't start a project until the pressure of the deadline is immense,ADHD,68,i cant start a project until the pressure of the deadline is immense,13
+506,"I feel a profound sense of detachment from my own body, like it's not mine",PTSD,72,i feel a profound sense of detachment from my own body like its not mine,15
+507,I have to mentally rehearse my entire day to make sure I didn't make a mistake,OCD,77,i have to mentally rehearse my entire day to make sure i didnt make a mistake,16
+508,"Colors seem muted and food tastes bland, like the world is fading",Depression,64,colors seem muted and food tastes bland like the world is fading,12
+509,My stomach is in knots worrying about a meeting that's a week away,Anxiety,65,my stomach is in knots worrying about a meeting thats a week away,13
+510,"I'm finding joy in my daily routine, which feels really nice",Normal,58,im finding joy in my daily routine which feels really nice,11
+511,"I feel like I have superpowers, then two days later I can't even make toast",Bipolar,73,i feel like i have superpowers then two days later i cant even make toast,15
+512,I experience intense emotional reactions to minor setbacks,ADHD,58,i experience intense emotional reactions to minor setbacks,8
+513,I can't feel happiness or love anymore; it's like those emotions are gone,PTSD,70,i cant feel happiness or love anymore its like those emotions are gone,13
+514,"An image of a disaster will pop into my head, and I have to do a ritual to feel safe",OCD,83,an image of a disaster will pop into my head and i have to do a ritual to feel safe,20
+515,"I feel like I'm underwater, and everyone else is moving at normal speed",Depression,69,i feel like im underwater and everyone else is moving at normal speed,13
+516,I'm convinced this minor physical symptom is a sign of a fatal disease,Anxiety,69,im convinced this minor physical symptom is a sign of a fatal disease,13
+517,I'm proud of the healthy habits I'm building for myself,Normal,53,im proud of the healthy habits im building for myself,10
+518,My thoughts are like a freight train with no brakes during a manic episode,Bipolar,74,my thoughts are like a freight train with no brakes during a manic episode,14
+519,My brain feels like it needs constant novelty and stimulation to stay engaged,ADHD,77,my brain feels like it needs constant novelty and stimulation to stay engaged,13
+520,"I've been engaging in risky behavior, almost like I'm testing fate",PTSD,63,ive been engaging in risky behavior almost like im testing fate,11
+521,I can't leave a room until everything is perfectly aligned and symmetrical,OCD,73,i cant leave a room until everything is perfectly aligned and symmetrical,12
+522,"It feels like there's a heavy, invisible blanket smothering my motivation",Depression,71,it feels like theres a heavy invisible blanket smothering my motivation,11
+523,I felt like everyone was staring at me and judging me at the store today,Anxiety,72,i felt like everyone was staring at me and judging me at the store today,15
+524,I'm enjoying being present and not worrying about the past or future,Normal,67,im enjoying being present and not worrying about the past or future,12
+525,The crash after a manic period feels like the worst emotional hangover imaginable,Bipolar,81,the crash after a manic period feels like the worst emotional hangover imaginable,13
+526,A simple criticism can send me into a spiral of self-doubt for days,ADHD,66,a simple criticism can send me into a spiral of selfdoubt for days,13
+527,I look in the mirror and sometimes feel like I'm looking at a stranger,PTSD,69,i look in the mirror and sometimes feel like im looking at a stranger,14
+528,I'm terrified that I might accidentally cause harm to someone I care about,OCD,73,im terrified that i might accidentally cause harm to someone i care about,13
+529,I have to put on a mask of being 'fine' for everyone else,Depression,55,i have to put on a mask of being fine for everyone else,13
+530,The physical symptoms of my anxiety—dizziness and heart pounding—are scary,Anxiety,72,the physical symptoms of my anxietydizziness and heart poundingare scary,10
+531,I feel a quiet satisfaction from finishing my tasks for the day,Normal,63,i feel a quiet satisfaction from finishing my tasks for the day,12
+532,My family says they have to walk on eggshells around me because of my moods,Bipolar,75,my family says they have to walk on eggshells around me because of my moods,15
+533,I have a closet full of supplies for hobbies I was obsessed with for a week,ADHD,75,i have a closet full of supplies for hobbies i was obsessed with for a week,16
+534,"I keep thinking 'if only I had done something different,' the outcome would be better",PTSD,82,i keep thinking if only i had done something different the outcome would be better,15
+535,My mind gets stuck on a particular number and I have to see it everywhere,OCD,73,my mind gets stuck on a particular number and i have to see it everywhere,15
+536,My thoughts are consumed by a sense of failure and regret,Depression,57,my thoughts are consumed by a sense of failure and regret,11
+537,"I feel a sense of unreality, as if I'm watching a movie of my life",Anxiety,64,i feel a sense of unreality as if im watching a movie of my life,15
+538,I feel mentally refreshed and am looking forward to new challenges,Normal,66,i feel mentally refreshed and am looking forward to new challenges,11
+539,"During a high, I don't need to sleep and feel completely wired with energy",Bipolar,72,during a high i dont need to sleep and feel completely wired with energy,14
+540,I'll walk into a room and completely forget why I went in there,ADHD,62,ill walk into a room and completely forget why i went in there,13
+541,I have persistent feelings of guilt about surviving when others didn't,PTSD,69,i have persistent feelings of guilt about surviving when others didnt,11
+542,I'm preoccupied with religious questions and fears of damnation,OCD,62,im preoccupied with religious questions and fears of damnation,9
+543,"Even small decisions feel impossible, like my brain has shut down",Depression,64,even small decisions feel impossible like my brain has shut down,11
+544,I'm experiencing tunnel vision and cold sweats during my panic attacks,Anxiety,69,im experiencing tunnel vision and cold sweats during my panic attacks,11
+545,I feel connected to the people around me and supported,Normal,54,i feel connected to the people around me and supported,10
+546,"I make elaborate, unrealistic plans when I'm hypomanic",Bipolar,52,i make elaborate unrealistic plans when im hypomanic,8
+547,I can't seem to organize my thoughts well enough to write a simple email,ADHD,71,i cant seem to organize my thoughts well enough to write a simple email,14
+548,"I feel like a ghost in my own life, just watching things happen",PTSD,62,i feel like a ghost in my own life just watching things happen,13
+549,I have to reread pages of a book because I'm worried I missed a secret meaning,OCD,77,i have to reread pages of a book because im worried i missed a secret meaning,16
+550,I am so tired of being tired all the time,Depression,41,i am so tired of being tired all the time,10
+551,My fear of failure is so paralyzing that I procrastinate on everything,Anxiety,70,my fear of failure is so paralyzing that i procrastinate on everything,12
+552,I took a moment to appreciate the beauty of nature today,Normal,56,i took a moment to appreciate the beauty of nature today,11
+553,My speech becomes so fast that others can't understand what I'm saying,Bipolar,68,my speech becomes so fast that others cant understand what im saying,12
+554,I have a very low tolerance for boredom and frustration,ADHD,55,i have a very low tolerance for boredom and frustration,10
+555,I feel like I'm permanently broken by my past,PTSD,44,i feel like im permanently broken by my past,9
+556,"I have a constant, nagging doubt that I've left the oven on",OCD,57,i have a constant nagging doubt that ive left the oven on,12
+557,"I feel like an actor playing a part, and I'm exhausted from the performance",Depression,73,i feel like an actor playing a part and im exhausted from the performance,14
+558,I'm always on the lookout for signs that something is wrong,Anxiety,58,im always on the lookout for signs that something is wrong,11
+559,I feel a deep sense of accomplishment and self-worth today,Normal,57,i feel a deep sense of accomplishment and selfworth today,10
+560,I swing between feeling like a creative genius and a complete fraud,Bipolar,67,i swing between feeling like a creative genius and a complete fraud,12
+561,"I thrive in chaos and high-pressure situations, but fail at simple routines",ADHD,73,i thrive in chaos and highpressure situations but fail at simple routines,12
+562,I have a strong physical aversion to places that remind me of the trauma,PTSD,72,i have a strong physical aversion to places that remind me of the trauma,14
+563,I'm worried my thoughts can make bad things happen in reality,OCD,60,im worried my thoughts can make bad things happen in reality,11
+564,The sadness comes in waves and feels like it's going to drown me,Depression,63,the sadness comes in waves and feels like its going to drown me,13
+565,I'm having trouble breathing because my chest is so tight with worry,Anxiety,67,im having trouble breathing because my chest is so tight with worry,12
+566,I'm grateful for my health and the opportunities I have,Normal,54,im grateful for my health and the opportunities i have,10
+567,"I feel an intense pressure to keep talking, even when I have nothing to say",Bipolar,74,i feel an intense pressure to keep talking even when i have nothing to say,15
+568,My emotional volume is always turned up to the maximum,ADHD,54,my emotional volume is always turned up to the maximum,10
+569,I can't handle anyone touching me unexpectedly,PTSD,45,i cant handle anyone touching me unexpectedly,7
+570,I have to count my steps and end on an even number,OCD,50,i have to count my steps and end on an even number,12
+571,I've been turning down invitations because I don't have the social energy,Depression,71,ive been turning down invitations because i dont have the social energy,12
+572,I avoid conflict at all costs because it makes my anxiety unbearable,Anxiety,68,i avoid conflict at all costs because it makes my anxiety unbearable,12
+573,I feel a sense of inner peace that I haven't felt in a while,Normal,59,i feel a sense of inner peace that i havent felt in a while,14
+574,My partner says my personality seems to change from one day to the next,Bipolar,71,my partner says my personality seems to change from one day to the next,14
+575,"I have to set five alarms just to wake up, and I still oversleep",ADHD,63,i have to set five alarms just to wake up and i still oversleep,14
+576,I have significant gaps in my memory surrounding the traumatic event,PTSD,68,i have significant gaps in my memory surrounding the traumatic event,11
+577,I spend hours arranging my computer files into the perfect folder structure,OCD,75,i spend hours arranging my computer files into the perfect folder structure,12
+578,My mind is constantly replaying every mistake I've ever made,Depression,59,my mind is constantly replaying every mistake ive ever made,10
+579,I get nauseous and my palms sweat when I have to give a presentation,Anxiety,68,i get nauseous and my palms sweat when i have to give a presentation,14
+580,I'm enjoying learning a new skill and seeing myself improve,Normal,58,im enjoying learning a new skill and seeing myself improve,10
+581,I made a risky financial investment on an impulse and now I regret it,Bipolar,69,i made a risky financial investment on an impulse and now i regret it,14
+582,My living space is cluttered because I can't decide what to throw away,ADHD,69,my living space is cluttered because i cant decide what to throw away,13
+583,I feel like I'm watching the world from behind a pane of glass,PTSD,61,i feel like im watching the world from behind a pane of glass,13
+584,I need to have a 'just in case' item for every possible scenario,OCD,62,i need to have a just in case item for every possible scenario,13
+585,It feels like all the joy has been drained from my life,Depression,55,it feels like all the joy has been drained from my life,12
+586,I feel like I'm a burden to my family with my constant worrying,Anxiety,62,i feel like im a burden to my family with my constant worrying,13
+587,I had a really productive day and it feels fantastic,Normal,52,i had a really productive day and it feels fantastic,10
+588,I can go from being the life of the party to wanting to be completely alone,Bipolar,75,i can go from being the life of the party to wanting to be completely alone,16
+589,I struggle to relax because my mind is always racing with thoughts,ADHD,66,i struggle to relax because my mind is always racing with thoughts,12
+590,"I have a hair-trigger temper now, which is not how I used to be",PTSD,61,i have a hairtrigger temper now which is not how i used to be,14
+591,"I'm afraid that if I stop my rituals, something terrible will happen to a loved one",OCD,81,im afraid that if i stop my rituals something terrible will happen to a loved one,16
+592,"I feel emotionally raw, like I have no skin to protect me",Depression,56,i feel emotionally raw like i have no skin to protect me,12
+593,I'm terrified of making phone calls to strangers,Anxiety,47,im terrified of making phone calls to strangers,8
+594,"I feel strong, capable, and ready for anything",Normal,44,i feel strong capable and ready for anything,8
+595,"My ideas feel revolutionary when I'm hypomanic, but nonsensical later",Bipolar,67,my ideas feel revolutionary when im hypomanic but nonsensical later,10
+596,I can't seem to finish any book I start,ADHD,38,i cant seem to finish any book i start,9
+597,My sense of self was shattered by the trauma,PTSD,44,my sense of self was shattered by the trauma,9
+598,I have to check social media repeatedly to make sure I haven't been unfollowed,OCD,77,i have to check social media repeatedly to make sure i havent been unfollowed,14
+599,I've started to believe the negative things my inner voice tells me,Depression,66,ive started to believe the negative things my inner voice tells me,12
+600,"I feel a constant, low-level hum of anxiety throughout the day",Anxiety,60,i feel a constant lowlevel hum of anxiety throughout the day,11
+601,My routine is solid and it makes me feel secure,Normal,47,my routine is solid and it makes me feel secure,10
+602,I am either over-the-top productive or completely immobilized,Bipolar,59,i am either overthetop productive or completely immobilized,8
+603,I get easily distracted by my own thoughts during conversations,ADHD,63,i get easily distracted by my own thoughts during conversations,10
+604,I am always waiting for the other shoe to drop,PTSD,46,i am always waiting for the other shoe to drop,10
+605,I have to wipe down any surface before I can touch it,OCD,53,i have to wipe down any surface before i can touch it,12
+606,"I'm struggling with feelings of intense loneliness, even in a crowd",Depression,65,im struggling with feelings of intense loneliness even in a crowd,11
+607,I'm having intrusive thoughts about all the ways I could get hurt,Anxiety,64,im having intrusive thoughts about all the ways i could get hurt,12
+608,I feel a sense of hope that things are getting better,Normal,53,i feel a sense of hope that things are getting better,11
+609,My behavior becomes incredibly flamboyant and attention-seeking during highs,Bipolar,75,my behavior becomes incredibly flamboyant and attentionseeking during highs,9
+610,I'm a master procrastinator until the very last second,ADHD,53,im a master procrastinator until the very last second,9
+611,I feel like my emotions are stuck on 'numb',PTSD,41,i feel like my emotions are stuck on numb,9
+612,I have to avoid certain 'unlucky' colors in my clothing,OCD,53,i have to avoid certain unlucky colors in my clothing,10
+613,The effort to seem 'normal' is utterly exhausting,Depression,47,the effort to seem normal is utterly exhausting,8
+614,I experience sudden muscle twitches and jitters when I'm anxious,Anxiety,63,i experience sudden muscle twitches and jitters when im anxious,10
+615,I feel good about the direction my life is heading,Normal,50,i feel good about the direction my life is heading,10
+616,I have periods of intense goal-driven behavior that just suddenly stop,Bipolar,69,i have periods of intense goaldriven behavior that just suddenly stop,11
+617,I misplace important documents all the time,ADHD,43,i misplace important documents all the time,7
+618,I feel like an alien trying to understand human emotions,PTSD,56,i feel like an alien trying to understand human emotions,10
+619,I ask people the same question multiple times to be sure of the answer,OCD,70,i ask people the same question multiple times to be sure of the answer,14
+620,I've lost my passion for my career and my hobbies,Depression,48,ive lost my passion for my career and my hobbies,10
+621,My fear of flying is so intense I can't go on vacation,Anxiety,53,my fear of flying is so intense i cant go on vacation,12
+622,I'm sleeping well and waking up with energy,Normal,42,im sleeping well and waking up with energy,8
+623,"The world feels like a vibrant, exciting place when I'm manic",Bipolar,59,the world feels like a vibrant exciting place when im manic,11
+624,"I have trouble with impulse control, especially with online shopping",ADHD,67,i have trouble with impulse control especially with online shopping,10
+625,I have a deep distrust of people in authority now,PTSD,49,i have a deep distrust of people in authority now,10
+626,I need to have my morning coffee in a specific mug or my day feels wrong,OCD,72,i need to have my morning coffee in a specific mug or my day feels wrong,16
+627,"I feel like I'm living in a gray, colorless world",Depression,47,i feel like im living in a gray colorless world,10
+628,I feel like I'm going to faint when my anxiety gets too high,Anxiety,59,i feel like im going to faint when my anxiety gets too high,13
+629,I feel a deep sense of connection to my work and my colleagues,Normal,62,i feel a deep sense of connection to my work and my colleagues,13
+630,I swing from being overly critical of others to idolizing them,Bipolar,62,i swing from being overly critical of others to idolizing them,11
+631,I start tasks with a burst of energy but can't sustain the effort,ADHD,64,i start tasks with a burst of energy but cant sustain the effort,13
+632,I feel like I'm always braced for impact,PTSD,39,i feel like im always braced for impact,8
+633,I have a mental checklist that I have to go through before I can sleep,OCD,70,i have a mental checklist that i have to go through before i can sleep,15
+634,There's a constant feeling of dread hanging over me,Depression,50,theres a constant feeling of dread hanging over me,9
+635,I have a specific phobia that interferes with my daily life,Anxiety,59,i have a specific phobia that interferes with my daily life,11
+636,I feel centered and in control of my emotions,Normal,45,i feel centered and in control of my emotions,9
+637,"My creativity skyrockets during hypomania, and I produce a ton of work",Bipolar,69,my creativity skyrockets during hypomania and i produce a ton of work,12
+638,I am terrible at estimating how long a task will take,ADHD,53,i am terrible at estimating how long a task will take,11
+639,I have a cynical and pessimistic view of the future,PTSD,51,i have a cynical and pessimistic view of the future,10
+640,I'm afraid of swallowing pills because I think I will choke,OCD,58,im afraid of swallowing pills because i think i will choke,11
+641,My motivation is at an all-time low,Depression,34,my motivation is at an alltime low,7
+642,I'm having trouble concentrating because my anxious thoughts are so loud,Anxiety,71,im having trouble concentrating because my anxious thoughts are so loud,11
+643,I'm making time for self-care and it's making a big difference,Normal,59,im making time for selfcare and its making a big difference,11
+644,I feel so agitated I want to crawl out of my own skin,Bipolar,53,i feel so agitated i want to crawl out of my own skin,13
+645,My mind jumps from idea to idea without any logical connection,ADHD,62,my mind jumps from idea to idea without any logical connection,11
+646,I have a diminished interest in activities I used to find pleasurable,PTSD,69,i have a diminished interest in activities i used to find pleasurable,12
+647,"I feel compelled to tell the truth, even when it's socially inappropriate",OCD,71,i feel compelled to tell the truth even when its socially inappropriate,12
+648,I have recurrent thoughts of ending my life,Depression,43,i have recurrent thoughts of ending my life,8
+649,I'm so worried about what people think that I can't be myself,Anxiety,59,im so worried about what people think that i cant be myself,12
+650,I feel a sense of purpose and it's really motivating,Normal,51,i feel a sense of purpose and its really motivating,10
+651,My thoughts feel like they are racing and I can't slow them down,Bipolar,63,my thoughts feel like they are racing and i cant slow them down,13
+652,"I often speak before I think, which gets me into trouble",ADHD,55,i often speak before i think which gets me into trouble,11
+653,I feel like I'm a burden on everyone around me because of my past,PTSD,64,i feel like im a burden on everyone around me because of my past,14
+654,I have to touch an object with both hands to make it feel 'even',OCD,62,i have to touch an object with both hands to make it feel even,14
+655,"I feel like a ghost, just floating through my days",Depression,49,i feel like a ghost just floating through my days,10
+656,I get so overwhelmed by my to-do list that I do nothing at all,Anxiety,61,i get so overwhelmed by my todo list that i do nothing at all,14
+657,I feel emotionally stable and things don't bother me as much,Normal,59,i feel emotionally stable and things dont bother me as much,11
+658,"I take on huge, unrealistic responsibilities when I feel good",Bipolar,60,i take on huge unrealistic responsibilities when i feel good,10
+659,"I am constantly looking for my keys, phone, or wallet",ADHD,51,i am constantly looking for my keys phone or wallet,10
+660,I feel like I'm living in a constant state of high alert,PTSD,55,i feel like im living in a constant state of high alert,12
+661,"I'm afraid of contamination by proxy, like if someone touches a 'dirty' object and then touches me",OCD,94,im afraid of contamination by proxy like if someone touches a dirty object and then touches me,17
+662,I'm so fatigued that even showering feels like a marathon,Depression,56,im so fatigued that even showering feels like a marathon,10
+663,My thoughts are stuck in a catastrophic loop of 'what if',Anxiety,55,my thoughts are stuck in a catastrophic loop of what if,11
+664,I'm genuinely excited about the future for the first time in a while,Normal,67,im genuinely excited about the future for the first time in a while,13
+665,I can't seem to stop my impulsive spending when I am in a high,Bipolar,61,i cant seem to stop my impulsive spending when i am in a high,14
+666,I have to move around constantly; I can't handle being still,ADHD,58,i have to move around constantly i cant handle being still,11
+667,I feel like my personality fundamentally changed after the incident,PTSD,67,i feel like my personality fundamentally changed after the incident,10
+668,I have to say a specific phrase to myself to neutralize a bad thought,OCD,69,i have to say a specific phrase to myself to neutralize a bad thought,14
+669,I feel a profound sense of emptiness that nothing can fill,Depression,58,i feel a profound sense of emptiness that nothing can fill,11
+670,I feel a jolt of adrenaline every time I get an email notification,Anxiety,66,i feel a jolt of adrenaline every time i get an email notification,13
+671,I feel like I'm on the right path in my life,Normal,43,i feel like im on the right path in my life,11
+672,I'm either talking a mile a minute or I'm completely silent for days,Bipolar,66,im either talking a mile a minute or im completely silent for days,13
+673,I struggle to listen because I'm busy formulating my own response,ADHD,64,i struggle to listen because im busy formulating my own response,11
+674,I'm emotionally withdrawn and have difficulty showing affection,PTSD,62,im emotionally withdrawn and have difficulty showing affection,8
+675,I'm obsessed with the fear that I'll develop a serious illness,OCD,60,im obsessed with the fear that ill develop a serious illness,11
+676,I feel completely worthless and unlovable,Depression,41,i feel completely worthless and unlovable,6
+677,I am constantly seeking reassurance that I didn't upset anyone,Anxiety,61,i am constantly seeking reassurance that i didnt upset anyone,10
+678,I feel like my mind is quiet and peaceful today,Normal,47,i feel like my mind is quiet and peaceful today,10
+679,My confidence is either nonexistent or wildly inflated,Bipolar,54,my confidence is either nonexistent or wildly inflated,8
+680,I have a hard time with transitions and changes in my routine,ADHD,61,i have a hard time with transitions and changes in my routine,12
+681,I'm having recurring nightmares that are exact replays of the event,PTSD,66,im having recurring nightmares that are exact replays of the event,11
+682,I have to walk in a certain way to avoid bad luck,OCD,49,i have to walk in a certain way to avoid bad luck,12
+683,"I can't find pleasure in anything, even my favorite foods",Depression,55,i cant find pleasure in anything even my favorite foods,10
+684,I have a deep-seated fear of being abandoned by my loved ones,Anxiety,60,i have a deepseated fear of being abandoned by my loved ones,12
+685,I'm proud of how I'm navigating life's complexities,Normal,48,im proud of how im navigating lifes complexities,8
+686,"I have an uncontrollable flight of ideas, jumping from topic to topic",Bipolar,68,i have an uncontrollable flight of ideas jumping from topic to topic,12
+687,"I'm always late, no matter how early I try to start getting ready",ADHD,63,im always late no matter how early i try to start getting ready,13
+688,"I feel like I'm a ticking time bomb, ready to explode with anger",PTSD,62,i feel like im a ticking time bomb ready to explode with anger,13
+689,I have to tear pages out of a book if I make a mistake writing in it,OCD,68,i have to tear pages out of a book if i make a mistake writing in it,17
+690,I feel like I'm failing at every aspect of my life,Depression,49,i feel like im failing at every aspect of my life,11
+691,I'm obsessively re-reading texts I've sent to analyze their meaning,Anxiety,64,im obsessively rereading texts ive sent to analyze their meaning,10
+692,I feel like I have a healthy perspective on my problems,Normal,55,i feel like i have a healthy perspective on my problems,11
+693,My mood depends entirely on whether I'm in an up or down cycle,Bipolar,61,my mood depends entirely on whether im in an up or down cycle,13
+694,I have a hard time relaxing and am always fidgeting or restless,ADHD,63,i have a hard time relaxing and am always fidgeting or restless,12
+695,I have a hard time imagining a future for myself,PTSD,48,i have a hard time imagining a future for myself,10
+696,I can't stop cleaning because I'm afraid of germs making my family sick,OCD,69,i cant stop cleaning because im afraid of germs making my family sick,13
+697,I feel like I don't deserve to be happy,Depression,38,i feel like i dont deserve to be happy,9
+698,I'm worried I'll have a panic attack in public and humiliate myself,Anxiety,65,im worried ill have a panic attack in public and humiliate myself,12
+699,I'm able to appreciate the small joys in my day,Normal,46,im able to appreciate the small joys in my day,10
+700,"My sleep patterns are completely erratic, either insomnia or hypersomnia",Bipolar,71,my sleep patterns are completely erratic either insomnia or hypersomnia,10
+701,I struggle with emotional outbursts over seemingly small things,ADHD,63,i struggle with emotional outbursts over seemingly small things,9
+702,I've become very isolated and avoid social contact,PTSD,49,ive become very isolated and avoid social contact,8
+703,I have to align the fringe on the rug perfectly before I can relax,OCD,66,i have to align the fringe on the rug perfectly before i can relax,14
+704,My inner critic is relentless and loud,Depression,38,my inner critic is relentless and loud,7
+705,I feel like I'm constantly on trial and have to defend my actions,Anxiety,64,i feel like im constantly on trial and have to defend my actions,13
+706,I'm feeling motivated to work on my long-term goals,Normal,49,im feeling motivated to work on my longterm goals,9
+707,I get extremely irritable and impatient with people when I'm hypomanic,Bipolar,69,i get extremely irritable and impatient with people when im hypomanic,11
+708,I am inattentive to details and make careless errors in my work,ADHD,63,i am inattentive to details and make careless errors in my work,12
+709,I feel like I'm constantly reliving the worst day of my life,PTSD,59,i feel like im constantly reliving the worst day of my life,12
+710,I have to check that all the pictures on the wall are perfectly straight,OCD,72,i have to check that all the pictures on the wall are perfectly straight,14
+711,I feel like there's a wall of glass between me and the rest of the world,Depression,71,i feel like theres a wall of glass between me and the rest of the world,16
+712,I'm always assuming people are angry or disappointed with me,Anxiety,59,im always assuming people are angry or disappointed with me,10
+713,I'm feeling optimistic about what I can accomplish,Normal,49,im feeling optimistic about what i can accomplish,8
+714,I have an inflated sense of my own abilities during a manic episode,Bipolar,67,i have an inflated sense of my own abilities during a manic episode,13
+715,My thoughts are so scattered that I can't follow a conversation,ADHD,62,my thoughts are so scattered that i cant follow a conversation,11
+716,I experience intense psychological distress when reminded of the trauma,PTSD,71,i experience intense psychological distress when reminded of the trauma,10
+717,I have a pathological fear of making the wrong decision,OCD,55,i have a pathological fear of making the wrong decision,10
+718,"I cry at the drop of a hat, often for no clear reason",Depression,52,i cry at the drop of a hat often for no clear reason,13
+719,I feel a sense of dread when I think about the future,Anxiety,53,i feel a sense of dread when i think about the future,12
+720,I'm feeling resilient and able to bounce back from setbacks,Normal,58,im feeling resilient and able to bounce back from setbacks,10
+721,My energy levels are so high I feel like I'm vibrating,Bipolar,53,my energy levels are so high i feel like im vibrating,11
+722,I have a hard time with self-regulation and delayed gratification,ADHD,64,i have a hard time with selfregulation and delayed gratification,10
+723,I've lost all trust in my own judgment,PTSD,37,ive lost all trust in my own judgment,8
+724,I have to buy items in pairs or even numbers,OCD,44,i have to buy items in pairs or even numbers,10
+725,"I feel like a spectator in my own life, not an active participant",Depression,64,i feel like a spectator in my own life not an active participant,13
+726,I need to have an escape plan for every social situation I'm in,Anxiety,62,i need to have an escape plan for every social situation im in,13
+727,I feel a sense of calm authority over my own life,Normal,49,i feel a sense of calm authority over my own life,11
+728,I feel creatively blocked and uninspired during my depressive phases,Bipolar,68,i feel creatively blocked and uninspired during my depressive phases,10
+729,I'm easily frustrated by tasks that require patience,ADHD,51,im easily frustrated by tasks that require patience,8
+730,I have a belief that the world is a fundamentally dangerous place,PTSD,65,i have a belief that the world is a fundamentally dangerous place,12
+731,I have an overwhelming need for things to be 'just right',OCD,55,i have an overwhelming need for things to be just right,11
+732,I feel like a burden and think people would be better off without me,Depression,68,i feel like a burden and think people would be better off without me,14
+733,My body is in a constant state of 'fight or flight',Anxiety,49,my body is in a constant state of fight or flight,11
+734,I feel like I'm growing as a person and I'm happy about it,Normal,56,i feel like im growing as a person and im happy about it,13
+735,I can't seem to control my impulses when I'm in a manic state,Bipolar,59,i cant seem to control my impulses when im in a manic state,13
+736,I find it nearly impossible to complete administrative tasks like paperwork,ADHD,75,i find it nearly impossible to complete administrative tasks like paperwork,11
+737,I feel like I'm constantly waiting for something bad to happen again,PTSD,67,i feel like im constantly waiting for something bad to happen again,12
+738,I have to perform certain actions in a specific sequence,OCD,56,i have to perform certain actions in a specific sequence,10
+739,I have a deep feeling of apathy towards everything,Depression,50,i have a deep feeling of apathy towards everything,9
+740,I'm worried about my loved ones to an excessive and irrational degree,Anxiety,68,im worried about my loved ones to an excessive and irrational degree,12
+741,I feel a great sense of clarity about my goals and values,Normal,57,i feel a great sense of clarity about my goals and values,12
+742,"I'll stay up for 48 hours working on a project, then abandon it completely",Bipolar,69,ill stay up for hours working on a project then abandon it completely,13
+743,My mind wanders so much I often miss my exit on the highway,ADHD,59,my mind wanders so much i often miss my exit on the highway,13
+744,I feel like my trauma has made me 'unlovable',PTSD,43,i feel like my trauma has made me unlovable,9
+745,I'm convinced I'm a bad person because of my intrusive thoughts,OCD,61,im convinced im a bad person because of my intrusive thoughts,11
+746,I have no appetite and have to force myself to eat,Depression,50,i have no appetite and have to force myself to eat,11
+747,"I feel a sense of terror when I'm in a small, enclosed space",Anxiety,58,i feel a sense of terror when im in a small enclosed space,13
+748,I feel emotionally balanced and my mood is stable,Normal,49,i feel emotionally balanced and my mood is stable,9
+749,My moods are a rollercoaster that I can't get off of,Bipolar,51,my moods are a rollercoaster that i cant get off of,11
+750,I'm so disorganized that it negatively impacts my career,ADHD,55,im so disorganized that it negatively impacts my career,9
+751,I have a hard time feeling any strong emotion except for fear or anger,PTSD,70,i have a hard time feeling any strong emotion except for fear or anger,14
+752,"I feel compelled to hoard things, even if they are garbage",OCD,57,i feel compelled to hoard things even if they are garbage,11
+753,I am experiencing a complete loss of self-esteem,Depression,47,i am experiencing a complete loss of selfesteem,8
+754,"I feel like I can't catch my breath, even though I'm breathing fine",Anxiety,64,i feel like i cant catch my breath even though im breathing fine,13
+755,I feel like my hard work is finally paying off,Normal,46,i feel like my hard work is finally paying off,10
+756,"I feel pressured to keep talking, even when I have nothing to say",Bipolar,64,i feel pressured to keep talking even when i have nothing to say,13
+757,My impulsivity has led to financial problems,ADHD,44,my impulsivity has led to financial problems,7
+758,I'm having difficulty maintaining relationships since the trauma,PTSD,63,im having difficulty maintaining relationships since the trauma,8
+759,I'm afraid of stepping on cracks in the pavement,OCD,47,im afraid of stepping on cracks in the pavement,9
+760,I am isolating myself from the world because it feels safer,Depression,59,i am isolating myself from the world because it feels safer,11
+761,I get intense stomach cramps and digestive issues from anxiety,Anxiety,62,i get intense stomach cramps and digestive issues from anxiety,10
+762,I am at peace with my past and looking forward to the future,Normal,60,i am at peace with my past and looking forward to the future,13
+763,My thoughts are racing so fast I feel dizzy,Bipolar,43,my thoughts are racing so fast i feel dizzy,9
+764,I have trouble winding down and my mind is always 'on',ADHD,52,i have trouble winding down and my mind is always on,11
+765,I have a hard time trusting anyone completely,PTSD,45,i have a hard time trusting anyone completely,8
+766,I have to check that all the doors and windows are locked multiple times,OCD,72,i have to check that all the doors and windows are locked multiple times,14
+767,I feel like I'm living under a dark cloud that follows me everywhere,Depression,67,i feel like im living under a dark cloud that follows me everywhere,13
+768,I'm terrified of being the center of attention,Anxiety,45,im terrified of being the center of attention,8
+769,I feel refreshed and ready to have a great day,Normal,46,i feel refreshed and ready to have a great day,10
+770,I can shift from euphoria to tears in a matter of minutes,Bipolar,57,i can shift from euphoria to tears in a matter of minutes,12
+771,I find myself daydreaming excessively to escape from my responsibilities,ADHD,72,i find myself daydreaming excessively to escape from my responsibilities,10
+772,I have a sense of being different or separate from other people,PTSD,63,i have a sense of being different or separate from other people,12
+773,I have intrusive thoughts about yelling out inappropriate things in quiet places,OCD,80,i have intrusive thoughts about yelling out inappropriate things in quiet places,12
+774,I'm so emotionally exhausted I don't have the energy to talk,Depression,58,im so emotionally exhausted i dont have the energy to talk,11
+775,I'm afraid to try new things because I might fail,Anxiety,48,im afraid to try new things because i might fail,10
+776,I feel secure in who I am as a person,Normal,37,i feel secure in who i am as a person,10
+777,I have an exaggerated sense of self-confidence when I'm manic,Bipolar,59,i have an exaggerated sense of selfconfidence when im manic,10
+778,I often lose my place in conversations because I get distracted,ADHD,63,i often lose my place in conversations because i get distracted,11
+779,I feel emotionally and physically on edge all the time,PTSD,54,i feel emotionally and physically on edge all the time,10
+780,I'm preoccupied with keeping my possessions in a specific order,OCD,62,im preoccupied with keeping my possessions in a specific order,10
+781,I'm having trouble concentrating on work because of my low mood,Depression,62,im having trouble concentrating on work because of my low mood,11
+782,I feel like I'm going to lose my mind from all the stress,Anxiety,56,i feel like im going to lose my mind from all the stress,13
+783,I'm enjoying a period of calm and stability,Normal,42,im enjoying a period of calm and stability,8
+784,My thinking can become grandiose and delusional when I'm manic,Bipolar,61,my thinking can become grandiose and delusional when im manic,10
+785,I'm not a good listener because my mind is always somewhere else,ADHD,63,im not a good listener because my mind is always somewhere else,12
+786,"I'm constantly scanning for threats, even in my own home",PTSD,54,im constantly scanning for threats even in my own home,10
+787,I feel the need to confess to minor wrongdoings constantly,OCD,58,i feel the need to confess to minor wrongdoings constantly,10
+788,I've lost interest in sex and physical intimacy,Depression,46,ive lost interest in sex and physical intimacy,8
+789,I have a fear of heights that makes it hard to be in tall buildings,Anxiety,67,i have a fear of heights that makes it hard to be in tall buildings,15
+790,I feel like I'm living a meaningful and fulfilling life,Normal,54,i feel like im living a meaningful and fulfilling life,10
+791,My depression can get so bad that I experience psychosis,Bipolar,56,my depression can get so bad that i experience psychosis,10
+792,I have a hard time with tasks that have multiple steps,ADHD,54,i have a hard time with tasks that have multiple steps,11
+793,"I feel like the trauma was my fault, even though I know it wasn't",PTSD,63,i feel like the trauma was my fault even though i know it wasnt,14
+794,"I have to count things in my environment, like ceiling tiles or cars",OCD,67,i have to count things in my environment like ceiling tiles or cars,13
+795,I have unexplained physical symptoms like headaches and body aches,Depression,66,i have unexplained physical symptoms like headaches and body aches,10
+796,"I get overwhelmed by sensory input, like loud noises and bright lights",Anxiety,69,i get overwhelmed by sensory input like loud noises and bright lights,12
+797,I feel grateful for the simple pleasures of life,Normal,48,i feel grateful for the simple pleasures of life,9
+798,My family has pointed out my erratic and impulsive behavior,Bipolar,59,my family has pointed out my erratic and impulsive behavior,10
+799,I have poor working memory and forget instructions immediately,ADHD,62,i have poor working memory and forget instructions immediately,9
+800,I feel like I can never be my old self again,PTSD,44,i feel like i can never be my old self again,11
+801,I have a fear of being contaminated by thoughts as well as germs,OCD,64,i have a fear of being contaminated by thoughts as well as germs,13
+802,I feel like I'm wearing a lead vest all the time,Depression,47,i feel like im wearing a lead vest all the time,11
+803,My mind is a whirlwind of worst-case scenarios,Anxiety,45,my mind is a whirlwind of worstcase scenarios,8
+804,"I feel calm and collected, even in stressful situations",Normal,54,i feel calm and collected even in stressful situations,9
+805,I feel like I'm invincible and can't be harmed during my highs,Bipolar,60,i feel like im invincible and cant be harmed during my highs,12
+806,I'm often called 'lazy' or 'unmotivated' but it's not true,ADHD,52,im often called lazy or unmotivated but its not true,10
+807,I feel like my future has been stolen from me,PTSD,45,i feel like my future has been stolen from me,10
+808,"I have to repeat actions until they feel 'just right,' which can take hours",OCD,72,i have to repeat actions until they feel just right which can take hours,14
+809,I feel like I'm on the outside looking in on my own life,Depression,55,i feel like im on the outside looking in on my own life,13
+810,"I experience intense depersonalization, feeling detached from myself",Anxiety,67,i experience intense depersonalization feeling detached from myself,8
+811,I'm feeling very content and satisfied with my relationships,Normal,59,im feeling very content and satisfied with my relationships,9
+812,My depressive episodes leave me feeling suicidal and hopeless,Bipolar,61,my depressive episodes leave me feeling suicidal and hopeless,9
+813,I can be very blunt and tactless without meaning to be,ADHD,54,i can be very blunt and tactless without meaning to be,11
+814,I feel like I aged 20 years on the day of the trauma,PTSD,49,i feel like i aged years on the day of the trauma,12
+815,I have a need for everything to be clean and sterile,OCD,52,i have a need for everything to be clean and sterile,11
+816,I have a constant feeling of being 'on edge' and irritable,Depression,56,i have a constant feeling of being on edge and irritable,11
+817,"I have an irrational fear of being trapped, like in an elevator",Anxiety,62,i have an irrational fear of being trapped like in an elevator,12
+818,I feel like I'm making positive changes in my life,Normal,49,i feel like im making positive changes in my life,10
+819,I'm either extremely productive or can't get out of bed for days,Bipolar,62,im either extremely productive or cant get out of bed for days,12
+820,I have a low frustration tolerance and a quick temper,ADHD,53,i have a low frustration tolerance and a quick temper,10
+821,I am hyper-aware of my surroundings to an exhausting degree,PTSD,58,i am hyperaware of my surroundings to an exhausting degree,10
+822,I have to arrange my clothes by color and type,OCD,46,i have to arrange my clothes by color and type,10
+823,I'm having thoughts that I would be better off dead,Depression,50,im having thoughts that i would be better off dead,10
+824,I'm so worried about the future that I can't enjoy the present,Anxiety,60,im so worried about the future that i cant enjoy the present,12
+825,I feel a sense of optimism that I haven't had in a long time,Normal,59,i feel a sense of optimism that i havent had in a long time,14
+826,My judgment becomes severely impaired when I'm manic,Bipolar,51,my judgment becomes severely impaired when im manic,8
+827,I have a hard time following through on my commitments,ADHD,54,i have a hard time following through on my commitments,10
+828,I feel like I'm living in a different reality from everyone else,PTSD,63,i feel like im living in a different reality from everyone else,12
+829,I have a fear of leaving my house alone,OCD,39,i have a fear of leaving my house alone,9
+830,I feel like I'm in a fog that I can't think my way out of,Depression,55,i feel like im in a fog that i cant think my way out of,15
+831,I am terrified of what other people think of me,Anxiety,47,i am terrified of what other people think of me,10
+832,I feel like I have a good handle on my life right now,Normal,53,i feel like i have a good handle on my life right now,13
+833,I feel like I'm moving in fast-forward while everyone else is in slow-motion,Bipolar,73,i feel like im moving in fastforward while everyone else is in slowmotion,13
+834,I often tune out during long meetings or lectures,ADHD,49,i often tune out during long meetings or lectures,9
+835,I have a very strong startle response to unexpected noises,PTSD,58,i have a very strong startle response to unexpected noises,10
+836,I need to know the exact details of a plan or I get very anxious,OCD,64,i need to know the exact details of a plan or i get very anxious,15
+837,I feel like I'm a shell of my former self,Depression,40,i feel like im a shell of my former self,10
+838,I have a fear of losing control in front of other people,Anxiety,56,i have a fear of losing control in front of other people,12
+839,I am feeling very peaceful and it's a welcome change,Normal,51,i am feeling very peaceful and its a welcome change,10
+840,I can go from being the most talkative person in the room to mute,Bipolar,65,i can go from being the most talkative person in the room to mute,14
+841,I have a hard time with boredom and am always seeking excitement,ADHD,64,i have a hard time with boredom and am always seeking excitement,12
+842,I'm having trouble sleeping because of intrusive thoughts about the trauma,PTSD,73,im having trouble sleeping because of intrusive thoughts about the trauma,11
+843,I have a fear of using public restrooms,OCD,39,i have a fear of using public restrooms,8
+844,I feel like I'm running on empty all the time,Depression,44,i feel like im running on empty all the time,10
+845,"I'm having chest pains and I'm scared it's a heart attack, but it's just anxiety",Anxiety,75,im having chest pains and im scared its a heart attack but its just anxiety,15
+846,I feel confident and self-assured in my decisions,Normal,48,i feel confident and selfassured in my decisions,8
+847,I can feel a manic episode coming on like an approaching storm,Bipolar,62,i can feel a manic episode coming on like an approaching storm,12
+848,"I have a tendency to hyper-focus on things I find interesting, to the exclusion of all else",ADHD,89,i have a tendency to hyperfocus on things i find interesting to the exclusion of all else,17
+849,I feel like I'm fundamentally flawed because of what happened to me,PTSD,66,i feel like im fundamentally flawed because of what happened to me,12
+850,I have to wash my hands a certain number of times before I can eat,OCD,66,i have to wash my hands a certain number of times before i can eat,15
+851,I have a hard time feeling any positive emotions at all,Depression,55,i have a hard time feeling any positive emotions at all,11
+852,I feel like my brain has been hijacked by my worries,Anxiety,52,i feel like my brain has been hijacked by my worries,11
+853,I feel like I am in a really good headspace today,Normal,49,i feel like i am in a really good headspace today,11
+854,The depressive crash after a manic high is devastating,Bipolar,54,the depressive crash after a manic high is devastating,9
+855,"I struggle with time blindness, often underestimating how long things take",ADHD,73,i struggle with time blindness often underestimating how long things take,11
+856,I'm having flashbacks that are so vivid they feel real,PTSD,53,im having flashbacks that are so vivid they feel real,10
+857,"I'm afraid that my house will burn down, so I check the smoke detectors daily",OCD,75,im afraid that my house will burn down so i check the smoke detectors daily,15
+858,I feel like I'm just going through the motions of living,Depression,55,i feel like im just going through the motions of living,11
+859,I'm having trouble making decisions because I'm scared of making the wrong one,Anxiety,76,im having trouble making decisions because im scared of making the wrong one,13
+860,I feel a sense of pride in the work I've done,Normal,44,i feel a sense of pride in the work ive done,11
+861,My thoughts are so rapid and disorganized that I can't articulate them,Bipolar,69,my thoughts are so rapid and disorganized that i cant articulate them,12
+862,I have a hard time with unstructured time and get bored easily,ADHD,62,i have a hard time with unstructured time and get bored easily,12
+863,I feel like I can't connect with people who haven't been through what I have,PTSD,74,i feel like i cant connect with people who havent been through what i have,15
+864,I have to have all my things perfectly organized or I can't concentrate,OCD,70,i have to have all my things perfectly organized or i cant concentrate,13
+865,"I feel like I'm at the bottom of a deep, dark pit",Depression,47,i feel like im at the bottom of a deep dark pit,12
+866,I'm having difficulty sleeping because I can't turn off my anxious thoughts,Anxiety,73,im having difficulty sleeping because i cant turn off my anxious thoughts,12
+867,I feel like I'm on an even keel emotionally,Normal,42,i feel like im on an even keel emotionally,9
+868,"My confidence soars during a hypomanic phase, and I feel unstoppable",Bipolar,67,my confidence soars during a hypomanic phase and i feel unstoppable,11
+869,I often interrupt others because I'm afraid I'll forget what I want to say,ADHD,72,i often interrupt others because im afraid ill forget what i want to say,14
+870,I am constantly tense and preparing for the worst,PTSD,49,i am constantly tense and preparing for the worst,9
+871,I have a routine that I must follow exactly every day or I feel intense anxiety,OCD,79,i have a routine that i must follow exactly every day or i feel intense anxiety,16
+872,I feel like I'm living in a black and white movie,Depression,48,i feel like im living in a black and white movie,11
+873,I am so stressed that I am experiencing hair loss,Anxiety,49,i am so stressed that i am experiencing hair loss,10
+874,I feel like my life is full of possibilities,Normal,44,i feel like my life is full of possibilities,9
+875,I can go from laughing hysterically to sobbing in a short period,Bipolar,64,i can go from laughing hysterically to sobbing in a short period,12
+876,I have a poor sense of direction and get lost easily,ADHD,52,i have a poor sense of direction and get lost easily,11
+877,I feel like my trauma has made me a cynical and bitter person,PTSD,61,i feel like my trauma has made me a cynical and bitter person,13
+878,I have to confess any 'bad' thought I have to my partner,OCD,54,i have to confess any bad thought i have to my partner,12
+879,I have no energy to do the things I used to love,Depression,48,i have no energy to do the things i used to love,12
+880,I have a constant feeling that something bad is about to happen,Anxiety,63,i have a constant feeling that something bad is about to happen,12
+881,I feel a sense of joy and wonder about the world today,Normal,54,i feel a sense of joy and wonder about the world today,12
+882,My mind is full of grandiose ideas that I can't possibly execute,Bipolar,63,my mind is full of grandiose ideas that i cant possibly execute,12
+883,I have a hard time completing tasks that I find boring,ADHD,54,i have a hard time completing tasks that i find boring,11
+884,I feel like I'm living in the past and can't move forward,PTSD,55,i feel like im living in the past and cant move forward,12
+885,"I'm afraid of getting sick, so I'm constantly washing my hands",OCD,59,im afraid of getting sick so im constantly washing my hands,11
+886,I feel like I'm a failure in my personal and professional life,Depression,61,i feel like im a failure in my personal and professional life,12
+887,I'm having trouble breathing and I feel like I'm suffocating,Anxiety,58,im having trouble breathing and i feel like im suffocating,10
+888,I feel like I'm in a good place mentally and emotionally,Normal,55,i feel like im in a good place mentally and emotionally,11
+889,My mood swings are exhausting for me and those around me,Bipolar,56,my mood swings are exhausting for me and those around me,11
+890,I have a hard time with executive functions like planning and prioritizing,ADHD,74,i have a hard time with executive functions like planning and prioritizing,12
+891,I feel like I'm a different person than I was before the trauma,PTSD,62,i feel like im a different person than i was before the trauma,13
+892,I have to check that my car is locked several times before I can walk away,OCD,74,i have to check that my car is locked several times before i can walk away,16
+893,I feel like I'm just taking up space in the world,Depression,48,i feel like im just taking up space in the world,11
+894,I'm having nightmares about being unable to escape a dangerous situation,Anxiety,71,im having nightmares about being unable to escape a dangerous situation,11
+895,I feel a sense of empowerment and control over my life,Normal,54,i feel a sense of empowerment and control over my life,11
+896,I can't seem to regulate my emotions; they're either on or off,Bipolar,59,i cant seem to regulate my emotions theyre either on or off,12
+897,I'm very forgetful and have to write everything down,ADHD,51,im very forgetful and have to write everything down,9
+898,"I feel like I'm constantly on guard, waiting for a threat",PTSD,55,i feel like im constantly on guard waiting for a threat,11
+899,I have to have my things arranged in a certain way that makes sense only to me,OCD,78,i have to have my things arranged in a certain way that makes sense only to me,17
+900,I feel like I'm watching my life from a distance,Depression,47,i feel like im watching my life from a distance,10
+901,My heart feels like it's going to beat out of my chest,Anxiety,53,my heart feels like its going to beat out of my chest,12
+902,I feel like I have a good support system in my friends and family,Normal,65,i feel like i have a good support system in my friends and family,14
+903,I feel like my brain is on fire with ideas and energy,Bipolar,53,i feel like my brain is on fire with ideas and energy,12
+904,I have a hard time with tasks that require long-term planning,ADHD,60,i have a hard time with tasks that require longterm planning,11
+905,"I feel like I'm stuck in a loop, reliving the same bad memories",PTSD,61,i feel like im stuck in a loop reliving the same bad memories,13
+906,I am preoccupied with thoughts of contamination and cleanliness,OCD,63,i am preoccupied with thoughts of contamination and cleanliness,9
+907,I feel like there's no point in trying anymore because I'll just fail,Depression,67,i feel like theres no point in trying anymore because ill just fail,13
+908,I'm so anxious that I can't eat or sleep properly,Anxiety,47,im so anxious that i cant eat or sleep properly,10
+909,I feel a sense of deep contentment with my life right now,Normal,57,i feel a sense of deep contentment with my life right now,12
+910,I experience intense and unstable relationships due to my mood swings,Bipolar,69,i experience intense and unstable relationships due to my mood swings,11
+911,"I am easily distracted by external stimuli, making it hard to work",ADHD,65,i am easily distracted by external stimuli making it hard to work,12
+912,I have a persistent feeling of being damaged or broken,PTSD,54,i have a persistent feeling of being damaged or broken,10
+913,"I have a fear of losing important items, so I check for them constantly",OCD,70,i have a fear of losing important items so i check for them constantly,14
+914,I feel like I'm in a constant state of grief for the life I thought I'd have,Depression,74,i feel like im in a constant state of grief for the life i thought id have,17
+915,I have a fear of public speaking that has held me back in my career,Anxiety,67,i have a fear of public speaking that has held me back in my career,15
+916,I feel a sense of renewal and am ready to start fresh,Normal,53,i feel a sense of renewal and am ready to start fresh,12
+917,I feel like I'm on an emotional seesaw every single day,Bipolar,54,i feel like im on an emotional seesaw every single day,11
+918,"I struggle with object permanence; if I don't see something, I forget it exists",ADHD,76,i struggle with object permanence if i dont see something i forget it exists,14
+919,I am constantly looking for signs of danger in my environment,PTSD,61,i am constantly looking for signs of danger in my environment,11
+920,I have to repeat certain words or phrases in my head to feel calm,OCD,65,i have to repeat certain words or phrases in my head to feel calm,14
+921,I feel like I'm invisible to the people around me,Depression,48,i feel like im invisible to the people around me,10
+922,"I'm having trouble concentrating because of my racing, anxious thoughts",Anxiety,69,im having trouble concentrating because of my racing anxious thoughts,10
+923,I feel like my life is balanced and I'm managing my responsibilities well,Normal,72,i feel like my life is balanced and im managing my responsibilities well,13
+924,My depressive episodes are characterized by extreme fatigue and apathy,Bipolar,70,my depressive episodes are characterized by extreme fatigue and apathy,10
+925,I have a hard time with impulse control and often say things I regret,ADHD,69,i have a hard time with impulse control and often say things i regret,14
+926,I feel like I can't trust my own mind anymore,PTSD,44,i feel like i cant trust my own mind anymore,10
+927,I have a need to confess every perceived mistake to my loved ones,OCD,65,i have a need to confess every perceived mistake to my loved ones,13
+928,I feel like I'm drowning in my own sadness,Depression,41,i feel like im drowning in my own sadness,9
+929,I have a fear of being in crowds that makes me avoid public events,Anxiety,66,i have a fear of being in crowds that makes me avoid public events,14
+930,I feel like I'm exactly where I need to be in my life,Normal,52,i feel like im exactly where i need to be in my life,13
+931,"My energy levels are unpredictable, making it hard to plan my life",Bipolar,65,my energy levels are unpredictable making it hard to plan my life,12
+932,I am often restless and have to be in constant motion,ADHD,53,i am often restless and have to be in constant motion,11
+933,I feel like I'm living in a constant state of fear,PTSD,49,i feel like im living in a constant state of fear,11
+934,I have to check that I haven't accidentally hurt someone when I'm driving,OCD,71,i have to check that i havent accidentally hurt someone when im driving,13
+935,I feel like I'm a burden on everyone I know,Depression,42,i feel like im a burden on everyone i know,10
+936,I'm having trouble with my memory because of my high anxiety levels,Anxiety,66,im having trouble with my memory because of my high anxiety levels,12
+937,"I feel like I'm thriving, not just surviving",Normal,42,i feel like im thriving not just surviving,8
+938,I have a hard time distinguishing between my manic self and my 'real' self,Bipolar,72,i have a hard time distinguishing between my manic self and my real self,14
+939,I get overwhelmed by clutter and have trouble keeping my space tidy,ADHD,67,i get overwhelmed by clutter and have trouble keeping my space tidy,12
+940,I feel like I'm disconnected from my own emotions,PTSD,48,i feel like im disconnected from my own emotions,9
+941,I have to engage in rituals to prevent bad things from happening,OCD,64,i have to engage in rituals to prevent bad things from happening,12
+942,I feel like I'm living life on autopilot,Depression,39,i feel like im living life on autopilot,8
+943,I'm so worried about what might happen that I'm afraid to leave my house,Anxiety,70,im so worried about what might happen that im afraid to leave my house,14
+944,I feel a sense of deep gratitude for the good things in my life,Normal,63,i feel a sense of deep gratitude for the good things in my life,14
+945,I can go from feeling ecstatic to feeling suicidal in the same day,Bipolar,66,i can go from feeling ecstatic to feeling suicidal in the same day,13
+946,I have a hard time finishing projects because I get bored with them,ADHD,67,i have a hard time finishing projects because i get bored with them,13
+947,I feel like I'm always looking over my shoulder,PTSD,46,i feel like im always looking over my shoulder,9
+948,I have to have my things arranged perfectly or I feel out of control,OCD,68,i have to have my things arranged perfectly or i feel out of control,14
+949,I feel like my life lacks meaning and purpose,Depression,45,i feel like my life lacks meaning and purpose,9
+950,I'm having a hard time relaxing because I'm always on alert,Anxiety,57,im having a hard time relaxing because im always on alert,11
+951,I feel like I'm in a good mental state to handle challenges,Normal,58,i feel like im in a good mental state to handle challenges,12
+952,My mind is a chaotic mess of half-formed ideas and racing thoughts,Bipolar,65,my mind is a chaotic mess of halfformed ideas and racing thoughts,12
+953,I have a hard time managing my time effectively and am often late,ADHD,65,i have a hard time managing my time effectively and am often late,13
+954,I feel like my trauma has made me a person I don't recognize,PTSD,59,i feel like my trauma has made me a person i dont recognize,13
+955,I have to reread my emails multiple times to make sure there are no mistakes,OCD,76,i have to reread my emails multiple times to make sure there are no mistakes,15
+956,I feel like I'm carrying the weight of the world on my shoulders,Depression,63,i feel like im carrying the weight of the world on my shoulders,13
+957,I'm having trouble making decisions because I'm afraid of the consequences,Anxiety,72,im having trouble making decisions because im afraid of the consequences,11
+958,I feel like I'm on the right track to achieving my goals,Normal,55,i feel like im on the right track to achieving my goals,12
+959,My mood can switch from one extreme to the other without any warning,Bipolar,68,my mood can switch from one extreme to the other without any warning,13
+960,I have a hard time with tasks that require sustained attention,ADHD,62,i have a hard time with tasks that require sustained attention,11
+961,I feel like I'm constantly on the verge of tears,PTSD,47,i feel like im constantly on the verge of tears,10
+962,I have a fear of germs and wash my hands obsessively,OCD,52,i have a fear of germs and wash my hands obsessively,11
+963,I feel like I'm in a dark tunnel with no light at the end,Depression,56,i feel like im in a dark tunnel with no light at the end,14
+964,I'm so worried about what others think that I have a hard time being authentic,Anxiety,77,im so worried about what others think that i have a hard time being authentic,15
+965,I feel a sense of joy and fulfillment from my relationships,Normal,59,i feel a sense of joy and fulfillment from my relationships,11
+966,My depressive lows are just as intense as my manic highs,Bipolar,56,my depressive lows are just as intense as my manic highs,11
+967,I have a hard time with organization and often lose important things,ADHD,68,i have a hard time with organization and often lose important things,12
+968,I feel like I'm living in a different world from everyone else,PTSD,61,i feel like im living in a different world from everyone else,12
+969,I have to check and recheck that I've turned off all the lights before leaving,OCD,77,i have to check and recheck that ive turned off all the lights before leaving,15
+970,I feel like I'm a bad person who deserves to be unhappy,Depression,54,i feel like im a bad person who deserves to be unhappy,12
+971,I'm having trouble with my appetite because of my anxiety,Anxiety,56,im having trouble with my appetite because of my anxiety,10
+972,I feel like I'm in a good place emotionally and spiritually,Normal,58,i feel like im in a good place emotionally and spiritually,11
+973,My thoughts are so loud and intrusive that I can't focus on anything,Bipolar,67,my thoughts are so loud and intrusive that i cant focus on anything,13
+974,I have a hard time with follow-through and often leave tasks unfinished,ADHD,70,i have a hard time with followthrough and often leave tasks unfinished,12
+975,I feel like my past has a permanent hold on my present,PTSD,54,i feel like my past has a permanent hold on my present,12
+976,I have a fear of contamination that makes it hard to eat in restaurants,OCD,71,i have a fear of contamination that makes it hard to eat in restaurants,14
+977,I feel like I'm just a passenger in my own body,Depression,46,i feel like im just a passenger in my own body,11
+978,"I'm having trouble with my sleep, either sleeping too much or not at all",Anxiety,70,im having trouble with my sleep either sleeping too much or not at all,14
+979,I feel like I'm living a life that is true to myself,Normal,51,i feel like im living a life that is true to myself,12
+980,My emotions are so extreme that they interfere with my daily functioning,Bipolar,72,my emotions are so extreme that they interfere with my daily functioning,12
+981,I have a hard time with long-term projects and often give up,ADHD,59,i have a hard time with longterm projects and often give up,12
+982,"I feel like I'm constantly on the defensive, waiting for an attack",PTSD,64,i feel like im constantly on the defensive waiting for an attack,12
+983,I have to have my books sorted by author and publication date,OCD,61,i have to have my books sorted by author and publication date,12
+984,I feel like I'm a burden to my friends and family,Depression,48,i feel like im a burden to my friends and family,11
+985,I'm having trouble with my focus because my mind keeps wandering to my worries,Anxiety,77,im having trouble with my focus because my mind keeps wandering to my worries,14
+986,I feel like I'm making a positive impact on the world,Normal,52,i feel like im making a positive impact on the world,11
+987,"My mood is a pendulum, swinging from one extreme to the other",Bipolar,60,my mood is a pendulum swinging from one extreme to the other,12
+988,I have a hard time with tasks that are not stimulating or interesting,ADHD,69,i have a hard time with tasks that are not stimulating or interesting,13
+989,I feel like I'm forever changed by what I've been through,PTSD,55,i feel like im forever changed by what ive been through,11
+990,I have to make sure everything in my room is in its proper place before I can sleep,OCD,83,i have to make sure everything in my room is in its proper place before i can sleep,18
+991,I feel like I'm living in a haze and can't think clearly,Depression,54,i feel like im living in a haze and cant think clearly,12
+992,I'm having trouble with my digestion because of my constant stress,Anxiety,65,im having trouble with my digestion because of my constant stress,11
+993,I feel a sense of purpose that drives me forward,Normal,48,i feel a sense of purpose that drives me forward,10
+994,"My energy is either boundless or non-existent, with no middle ground",Bipolar,66,my energy is either boundless or nonexistent with no middle ground,11
+995,I have a hard time with change and prefer to stick to what I know,ADHD,65,i have a hard time with change and prefer to stick to what i know,15
+996,I feel like I'm always looking for an escape from my own mind,PTSD,60,i feel like im always looking for an escape from my own mind,13
+997,I have a fear of things being out of order or asymmetrical,OCD,58,i have a fear of things being out of order or asymmetrical,12
+998,I feel like I'm at the end of my rope and have nothing left to give,Depression,66,i feel like im at the end of my rope and have nothing left to give,16
+999,I'm having trouble relaxing because my body is tense with anxiety,Anxiety,64,im having trouble relaxing because my body is tense with anxiety,11
+1000,I feel like I'm living an authentic and meaningful life,Normal,54,i feel like im living an authentic and meaningful life,10
