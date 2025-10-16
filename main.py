@@ -1,6 +1,15 @@
 from src.data_loader.load_data import load_data, show_data_info
+
 from src.preprocessing.text_cleaner import preprocess_dataframe, show_cleaning_comparison
+
 from src.utils.data_comparison import compare_before_after, get_text_stats, print_text_stats
+
+from src.preprocessing.tokenizer import (
+    process_dataframe_tokens,
+    show_tokenization_examples,
+    get_token_statistics,
+    print_token_stats
+)
 
 import os
 
@@ -19,65 +28,61 @@ def main():
         print("   Location: project/data/sample100.csv")
         return
     
-    print("📂 Loading 1000 data from the CSV file ...")
+    # Step 1: Loading the data:
+    print("📂 Loading the data ...")
+    print("-" * 70)
     try:
         df = load_data(data_path)
-        print("✅ Data loaded sucessfully!\n\n")
-
+        print(f"✅ Loader {len(df)} samples")
     except Exception as e:
-        print(f"❌ Error loading data: {e}")
+        print(f"❌ Error: {e}")
         return
     
-    # showing the data
-    show_data_info(df)
-
-    # print a success message for our first step
-    print("\n" + "=" * 60)
-    print(" " * 20 + "✅ STEP 1 COMPLETE!")
-    print("=" * 60)
-
-    # Step: Text Preprocessing
-    print("\n\n🧹 Step 2: Preprocessing Text Data ...")
-    print("-" * 60)
-
-    # cleaning the text in the dataframe
+    # Step 2: Clean Text
+    print("\n\n🧹 Step 2: Cleaning Text ...")
+    print("-" * 70)
     df_cleaned = preprocess_dataframe(df)
-    print("✅ Text Cleaning Complete!\n")
+    print("✅ Text Cleaning Complete")
 
     # showing the cleaning examples:
-    show_cleaning_comparison(df_cleaned, num_examples=5)
+    show_cleaning_comparison(df_cleaned, num_examples=3)
 
-    # comparing before and after:
-    compare_before_after(df_cleaned, 'text', 'cleaned_text', num_samples=10)
+    # Step 3: TOKENIZATION
+    print("\n\n🔤 STEP 3: Tokenization & Stop-word Removal...")
+    print("-" * 70)
 
-    # getting stats for original text
-    print("\n📊 Original Text Statistics:")
-    original_stats = get_text_stats(df_cleaned, 'text')
-    print_text_stats(original_stats, "BEFORE CLEANING")
+    df_tokenized = process_dataframe_tokens(df_cleaned)
+    print(f"\n✅ Tokennization Completed!")
 
-    # getting stats for cleaned text
-    print("\n📊 Cleaned Text Statistics:")
-    cleaned_stats = get_text_stats(df_cleaned, 'cleaned_text')
-    print_text_stats(cleaned_stats, "BEFORE CLEANING")
+    show_tokenization_examples(df_tokenized, num_examples=5)
 
-    # showing the impact of text cleaning:
-    print("\n💡 Cleaning Impact:")
-    print("-" * 60)
-    char_reduced = ((original_stats['avg_length'] - cleaned_stats['avg_length']))
-    print(f"Average text reduced by: {char_reduced:.1f}%")
-    print(f"Total Characters Removed: {original_stats['total_chars'] - cleaned_stats['total_chars']}")
+    # showing the comparison
+    print("\n📊 Comparing: Cleaned Text vs Stop-words Removed")
+    compare_before_after(df_tokenized, 'cleaned_text', 'filtered_text', num_samples=8)
 
-    # storing the cleaned data
-    output_path = 'data/processed/cleaned_data.csv'
+    token_stats = get_token_statistics(df_tokenized)
+    print_token_stats(token_stats)
+
+    print("\n💡 Key Insights:")
+    print("-" * 70)
+    print(f"• Original text had average {token_stats['avg_tokens_before']:.1f} words per sample")
+    print(f"• After removing stop words: {token_stats['avg_tokens_after']:.1f} words per sample")
+    print(f"• We removed {token_stats['total_stopwords_removed']:,} stop words total")
+    print(f"• This keeps only the meaningful words for mental health classification")
+
+    # saving the processed data:
+    output_path = 'data/processed/tokenized_data.csv'
     os.makedirs('data/processed', exist_ok=True)
-    df_cleaned.to_csv(output_path, index=False)
-    print(f"\n📉 Cleaned data saved to: {output_path}")
 
-    # print a success message for our first step
-    print("\n" + "=" * 60)
-    print(" " * 20 + "✅ STEP 2: Preprocessing text COMPLETE!")
-    print("=" * 60)
+    # Convert tokens list to string for CSV storage
+    df_tokenized['tokens_str'] = df_tokenized['tokens'].apply(lambda x: ' '.join(x))
+    df_tokenized.to_csv(output_path, index=False)
+    print(f"\n💾 Tokenized data saved to: {output_path}")
 
+    print("\n" + "=" * 70)
+    print(" " * 20 + "✅ STEPS 1-3 (Loading, Cleaning, Tokenization) COMPLETE!")
+    print("=" * 70)
+    print("\n📝 Next Step: Feature Extraction (TF-IDF)")
 
 
 if __name__ == "__main__":
