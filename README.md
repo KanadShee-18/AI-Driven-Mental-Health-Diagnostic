@@ -5,6 +5,7 @@
 - [AI Driven Mental Health Diagnostic:](#ai-driven-mental-health-diagnostic)
   - [Points to Be follows before starting:](#points-to-be-follows-before-starting)
   - [Staring Point:](#staring-point)
+  - [Contribution Guide:](#contribution-guide)
 
 ---
 
@@ -61,4 +62,10 @@ python main.py
 
 ---
 
-Thanks in Advance
+## Contribution Guide:
+
+[Click Here](CONTRIBUTION.md)
+
+---
+
+![THANK YOU](Images/ThankYou.gif)
