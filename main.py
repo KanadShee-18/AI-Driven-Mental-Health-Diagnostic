@@ -9,7 +9,7 @@ def main():
     print(" " * 25 + "Step 1: Data Loading")
     print("🧠" * 30 + "\n")
 
-    data_path = 'data/sample100.csv'
+    data_path = 'data/sample1000.csv'
 
     if not os.path.exists(data_path):
         print(f"❌ Error: File not found at {data_path}")
@@ -17,7 +17,7 @@ def main():
         print("   Location: project/data/sample100.csv")
         return
     
-    print("📂 Loading the data from the CSV file ...")
+    print("📂 Loading 1000 data from the CSV file ...")
     try:
         df = load_data(data_path)
         print("✅ Data loaded sucessfully!\n\n")
