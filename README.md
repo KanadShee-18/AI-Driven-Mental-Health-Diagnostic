@@ -19,7 +19,7 @@ If not, then refer to this youtube video:
 - Verify the installation by running this command in your `terminal/powershell`:
 
 ```bash
-Python --verison
+Python --version
 ```
 
 ---
@@ -32,9 +32,15 @@ Python --verison
 git clone https://github.com/KanadShee-18/AI-Driven-Mental-Health-Diagnostic.git
 ```
 
-> Go inside the directory.
+> Go inside the directory by running:
+```bash
+cd AI-Driven-Mental-Health-Diagnostic
+```
 
 > Open your favourite code editor. (for me its VsCode)
+```bash
+code .
+```
 
 > Now, open `terminal/powershell`, and run
 
